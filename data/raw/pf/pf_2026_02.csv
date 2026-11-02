@@ -1,0 +1,638 @@
+deal_id,project_name,announced,country,region,status,contract_type,sponsor,cost_usd
+154088224579,Stendal Solar Project,2026-02-13,Germany,Europe,Contract Signed,Build Own Operate,,0.0
+154088233193,Upper Ogmore Wind Project,2026-02-10,United Kingdom,Europe,Contract Signed,Build Own Operate,Renewable Energy Systems Ltd,0.0
+154088311881,Kvosted Hybrid Solar & BESS Park Project,2026-02-02,Denmark,Europe,Completed,Build Own Operate,European Energy AS,481555303.65
+154088658781,Bicker Fen Solar PV Project,2026-02-10,United Kingdom,Europe,Contract Signed,Build Own Operate,AGR Solar 2 Ltd,0.0
+154088693366,Limebury Solar Plant Project,2026-02-10,United Kingdom,Europe,Contract Signed,Build Own Operate,,0.0
+154089068304,Fibden Farm Solar PV Project,2026-02-10,United Kingdom,Europe,Contract Signed,Build Own Operate,Grenergy Renovables SA,0.0
+154089069304,Moreton Morrell Solar PV Project,2026-02-10,United Kingdom,Europe,Contract Signed,Build Own Operate,Innova Renewables Ltd,0.0
+154089128392,Thakadu Solar PV Project,2026-02-16,South Africa,"Africa, Middle East, or Central Asia",Announced,Build Own Operate,Lyra Energy,3200000000.0
+154089153570,Woodland Solar PV Project,2026-02-10,United Kingdom,Europe,Contract Signed,Build Own Operate,,0.0
+154089192222,Brogborough Solar PV Project,2026-02-10,United Kingdom,Europe,Contract Signed,Build Own Operate,Infinis Energy Ltd,0.0
+154089254753,Foran Mining Acquisition Project,2026-02-02,Canada,Americas,Sale Agreement Signed,Acquisition,Foran Mining Corp,3800000000.0
+154089256504,Cottam Solar & Battery Storage Acquisition Project,2026-02-01,United Kingdom,Europe,Announced,Acquisition,Shell PLC,0.0
+154089256504,,,,,,,Island Green Power UK Ltd,
+154089256701,Alight AB UK BtM Solar Portfolio Project,2026-02-02,United Kingdom,Europe,Announced,Build Own Operate,Alight AB,34000000.0
+154089256841,TPREL Karur Wind Energy Plant Project,2026-02-02,India,Asia Pacific Excluding Central Asia,Contract Signed,Build Own Operate,Tata Power Renewable Energy Ltd,0.0
+154089257016,Varanasi-Siliguri High Speed Rail Corridor Project,2026-02-01,India,Asia Pacific Excluding Central Asia,Announced,Build Own Operate,Indian Railways,0.0
+154089257056,Delhi-Varanasi High Speed Rail Corridor Project,2026-02-01,India,Asia Pacific Excluding Central Asia,Announced,Build Own Operate,Indian Railways,0.0
+154089257070,Hyderabad-Bengaluru High Speed Rail Corridor Project,2026-02-01,India,Asia Pacific Excluding Central Asia,Announced,Build Own Operate,Indian Railways,0.0
+154089257079,Germany Solar & BESS Portfolio Acquisition Project,2026-02-02,Germany,Europe,Sale Completed,Acquisition,Green Fox Energy,0.0
+154089257079,,,,,,,On Energy GmbH,
+154089257901,Sojitz/Tokyo Gas Birdsboro Power Stake Acquisition Project,2026-02-04,United States,Americas,Sale Agreement Signed,Acquisition,Tokyo Gas America Ltd,520000000.0
+154089257901,,,,,,,Sojitz Birdsboro LLC,
+154089257926,Bukhara Wangneng Environment Uzbekistan Waste to Energy Plant Project,2026-02-02,Uzbekistan,"Africa, Middle East, or Central Asia",Agreement Signed,Build Own Transfer,Wangneng Environment Co Ltd,2114018110365.06
+154089258054,Uzkimyosanoat Uzbekistan Coal To Polymer Project,2026-02-02,Uzbekistan,"Africa, Middle East, or Central Asia",Announced,Build Own Operate,UzKimyoSanoat JSC,61185850000119.9
+154089258571,Qatar Offshore Decommissioning Project,2026-02-02,Qatar,"Africa, Middle East, or Central Asia",Contract Signed,Build Own Operate,Qatar Energy,0.0
+154089258580,"Ecoener Tamarindo , Ardobela & Puerto Wilches Solar Portfolio Project",2026-02-03,Colombia,Americas,Announced,Build Own Operate,Ecoener SL,198222149999.753
+154089258633,Skull Creek Solar Project,2026-02-04,United States,Americas,Under Construction,Build Own Operate,Zelestra Corp SAU,0.0
+154089258775,Ambuklao Battery Energy Storage System Project,2026-02-03,Philippines,Asia Pacific Excluding Central Asia,Announced,Build Own Operate,SN Aboitiz Power Group,0.0
+154089258853,Al-Radisiya Bahri Drainage Pumping Station Project,2026-02-03,Egypt,"Africa, Middle East, or Central Asia",Completed,Build Own Operate,Aswan Governorate,0.0
+154089259118,Serene Memorial Gardens Project,2026-02-03,Egypt,"Africa, Middle East, or Central Asia",Announced,Build Own Operate,Administrative Capital For Urban Development,5000000000.0
+154089259547,Dunmore Solar Farm & Battery Acquisition Project,2026-02-05,Australia,Asia Pacific Excluding Central Asia,Sale Completed,Acquisition,Octopus Investments Aust Pty Ltd,0.0
+154089259547,,,,,,,Samsung C&T Renewable Energy Australia Pty Ltd,
+154089259604,Milepost Power Portfolio Acquisition Project,2026-02-05,United States,Americas,Sale Completed,Acquisition,Rockland Capital LLC,725000000.0
+154089259604,,,,,,,Hull Street Energy LLC,
+154089259609,Hanworth Battery Energy Storage System Acquisition Project,2026-02-05,Australia,Asia Pacific Excluding Central Asia,Sale Completed,Acquisition,Octopus Investments Aust Pty Ltd,0.0
+154089259609,,,,,,,Enervest Pty Ltd,
+154089259812,Binga Battery Energy Storage System Phase 2 Project,2026-02-03,Philippines,Asia Pacific Excluding Central Asia,Announced,Build Own Operate,SN Aboitiz Power Group,0.0
+154089259836,SNAP Benguet BESS Portfolio Project,2026-02-03,Philippines,Asia Pacific Excluding Central Asia,Announced,Build Own Operate,SN Aboitiz Power Group,0.0
+154089260000,TotalEnergies/ Tikehau Belgium-Netherlands EV Charging Project,2026-02-04,Belgium,Europe,Announced,Build Own Operate,TotalEnergies SE,0.0
+154089260000,,,,,,,Tikehau Capital SCA,
+154089260236,Latvia Standalone Battery Energy Storage Acquisition Project,2026-02-03,Latvia,Europe,Sale Completed,Acquisition,Ngen Energy Solutions Ltd,50000000.0
+154089260236,,,,,,,"SIA ""LIEPAJAS ENERGIJA""",
+154089260370,Indonesia Solar Rooftop Portfolio Project,2026-02-03,Indonesia,Asia Pacific Excluding Central Asia,Agreement Signed,Build Own Operate,KANEMATSU CORP,128000000000.0
+154089260370,,,,,,,EnBio Holdings Inc,
+154089260370,,,,,,,Shizen Energy Inc,
+154089260370,,,,,,,NiX JAPAN Co Ltd,
+154089260370,,,,,,,Alamport Inc,
+154089260440,Metlen Energy UK Solar PV Portfolio Acquisition Project,2026-02-04,United Kingdom,Europe,Sale Agreement Signed,Acquisition,Metlen Energy & Metals SA,80000000.0
+154089260445,Box2Bit Zaragoza Data Centre Project,2026-02-04,Spain,Europe,Announced,Build Own Operate,Box2bit,3900000000.0
+154089260449,Lupinus 1 Project,2026-02-05,United States,Americas,Contract Signed,Build Own Operate,Sunraycer Renewables LLC,0.0
+154089260469,Lupinus 2 Project,2026-02-05,United States,Americas,Contract Signed,Build Own Operate,Sunraycer Renewables LLC,0.0
+154089260630,Vault Digital Infrastructure Acquisition Project,2026-02-05,United States,Americas,Sale Completed,Acquisition,Vault Digital Infrastructure LP,0.0
+154089260630,,,,,,,Igneo Infrastructure Partners,
+154089261437,Pune-Hyderabad High Speed Rail Corridor Project,2026-02-01,India,Asia Pacific Excluding Central Asia,Announced,Build Own Operate,Indian Railways,0.0
+154089261951,TTR Energy Ardennes HSR Onshore Wind Farm Project,2026-02-05,France,Europe,Announced,Build Own Operate,Hexagon Renewable Energy S.A,240000000.0
+154089262165,Steward Creek Solar Acquisition Project,2026-02-02,United States,Americas,Sale Completed,Acquisition,TerraForm Power Operating LLC,0.0
+154089262165,,,,,,,Hexagon Energy LLC,
+154089262195,Talaat Moustafa Group/ EEP Noor Private University Project,2026-02-08,Egypt,"Africa, Middle East, or Central Asia",Agreement Signed,Build Own Operate,Talaat Moustafa Group Holding Co SAE,8000000000.0
+154089262195,,,,,,,Egypt Education Platform,
+154089262197,Germany Battery Storage Portfolio Acquisition Project,2026-02-05,Germany,Europe,Announced,Acquisition,,0.0
+154089262481,Ras Al Khaimah Plant Expansion Project,2026-02-02,United Arab Emirates,"Africa, Middle East, or Central Asia",Announced,Build Own Operate,Ras Al Khaimah Packaging Ltd Co,74000000.0
+154089262552,EWEC UAE PV6 Solar PV & Battery Storage Project,2026-02-05,United Arab Emirates,"Africa, Middle East, or Central Asia",Announced,Build Own Operate,Emirates Water & Electricity Co,0.0
+154089262584,EWEC UAE PV7 Solar PV & Battery Storage Project,2026-02-05,United Arab Emirates,"Africa, Middle East, or Central Asia",Announced,Build Own Operate,Emirates Water & Electricity Co,0.0
+154089262626,Cleanwatts Mozambique Renewable Energy Data Centre Project,2026-02-05,Mozambique,"Africa, Middle East, or Central Asia",Announced,Build Own Operate,Ras Al Khaimah Packaging Ltd Co,0.0
+154089262741,Mumbai - Pune High Speed Rail Corridor Project,2026-02-01,India,Asia Pacific Excluding Central Asia,Announced,Build Own Operate,Ministry Of Railways(India),0.0
+154089262759,Dankuni - Surat High Speed Rail Corridor Project,2026-02-01,India,Asia Pacific Excluding Central Asia,Announced,Build Own Operate,Dedicated Freight Corridor Corp Of India Ltd,0.0
+154089263546,Gulf Renewable Energy Expansion Portfolio Project,2026-02-06,Thailand,Asia Pacific Excluding Central Asia,Announced,Build Own Operate,Gulf Energy Development PCL,60000000000.0
+154089263653,Ib Vogt Ireland Solar Portfolio Acquisition Project,2026-02-06,Ireland,Europe,Sale Completed,Acquisition,ib vogt GmbH,230000000.0
+154089263691,Better Energy / Alight Varmland Solar Park Acquisition Project,2026-02-06,Sweden,Europe,Sale Completed,Acquisition,Better Energy ApS,0.0
+154089263691,,,,,,,Alight AB,
+154089263706,BDx Data Centers Acquisition Project,2026-02-06,Singapore,Asia Pacific Excluding Central Asia,Announced,Acquisition,I Squared Capital Advisors (US) LLC,2541400000.0
+154089263847,Bizerte Data Centre Project,2026-02-02,Tunisia,"Africa, Middle East, or Central Asia",Agreement Signed,Build Own Operate,Schneider Electric SE,0.0
+154089263847,,,,,,,Solecrypt Ltd,
+154089263858,Corpus Christi LNG Terminal Stage 4 Project,2026-02-05,United States,Americas,Planning Permission Applied,Build Own Operate,Cheniere Energy Inc,0.0
+154089263942,Triple Hub Project,2026-02-04,Egypt,"Africa, Middle East, or Central Asia",Under Construction,Build Own Operate,Gosour Developments,3500000000.0
+154089263944,Warsan Waste to Energy Phase 2 Expansion Project,2026-02-15,United Arab Emirates,"Africa, Middle East, or Central Asia",In Tender,Build Own Operate,Dubai Municipality,4000000000.0
+154089263998,Tata Valinokkam Greenfield Manufacturing Facility Project,2026-02-02,India,Asia Pacific Excluding Central Asia,Announced,Build Own Operate,Tata Chemicals Ltd,5150000000.0
+154089264109,North Field South LNG Acquisition Project,2026-02-06,Qatar,"Africa, Middle East, or Central Asia",Announced,Acquisition,TotalEnergies SE,0.0
+154089264109,,,,,,,ConocoPhillips,
+154089264109,,,,,,,Qatar Energy,
+154089264109,,,,,,,Shell PLC,
+154089264142,Syria Water Desalination & Transmission Portfolio Project,2026-02-08,Syria,"Africa, Middle East, or Central Asia",Agreement Signed,Build Own Operate,ACWA Power Co SJSC,0.0
+154089264142,,,,,,,Water Transmission Co,
+154089264142,,,,,,,Ministry Of Energy Syria Meo,
+154089264255,Mahindra Nagpur Automobiles Manufacturing Facility Project,2026-02-06,India,Asia Pacific Excluding Central Asia,Announced,Build Own Operate,Mahindra Nagpur Automobiles Manufacturing Facility,150000000000.0
+154089264287,Sepor Rosario Grain Terminal Upgrade Project,2026-02-03,Argentina,Americas,Contract Signed,Build Own Operate,Sepor Sa,101080000000.039
+154089264305,Finland Wind Portfolio Acquisition Project,2026-02-04,Finland,Europe,Sale Agreement Signed,Acquisition,Metsahallitus,0.0
+154089264305,,,,,,,Nordic Generation Oy,
+154089264346,Punatsangchhu-III Hydroelectric Project,2026-02-04,Bhutan,Asia Pacific Excluding Central Asia,Announced,Build Own Operate,Druk Green Power Corp,0.0
+154089264346,,,,,,,JSW Neo Energy Ltd,
+154089265054,Mass Romania Battery Energy Storage System Portfolio Project,2026-02-05,Romania,Europe,Announced,Build Own Operate,Mass Group Holding Ltd,5088566250.0
+154089265276,Germany Renewable Energy & Battery Storage Portfolio Project,2026-02-08,Germany,Europe,Agreement Signed,Build Own Operate,RWE AG,0.0
+154089265276,,,,,,,Abu Dhabi Future Energy Co PJSC,
+154089265306,"Zelestra Spain Wind, Solar & BESS Portfolio Project",2026-02-09,Spain,Europe,Announced,Build Own Operate,Zelestra Corp SAU,0.0
+154089265329,KP Energy India ISTS Wind Plant Project,2026-02-05,India,Asia Pacific Excluding Central Asia,Contract Signed,Build Own Operate,KP Energy Group Co Ltd,0.0
+154089265393,ACME India ISTS Firm & Dispatchable Renewable Energy Project,2026-02-05,India,Asia Pacific Excluding Central Asia,Contract Signed,Build Own Operate,ACME Solar Holdings Ltd,0.0
+154089265415,Ferme Eolienne de la Croix Violette Project,2026-02-03,France,Europe,Announced,Build Own Operate,,23614147.91
+154089265447,IIT Guwahati Solar Project,2026-02-09,India,Asia Pacific Excluding Central Asia,Agreement Signed,Build Own Operate,Indian Institute Of Technology Guwahati,62600000.0
+154089265532,Mont Galala Towers and Marina Project,2026-02-09,Egypt,"Africa, Middle East, or Central Asia",Agreement Signed,Build Own Operate,Tatweer Misr SAE,50000000000.0
+154089265574,Adyant Enersol India Solar & BESS ISTS-Connected Project,2026-02-09,India,Asia Pacific Excluding Central Asia,Contract Signed,Build Own Operate,Adyant Enersol Pty Ltd,0.0
+154089265602,Purvah Green India ISTS Connected Wind Project,2026-02-09,India,Asia Pacific Excluding Central Asia,Contract Signed,Build Own Operate,Purvah Green Power Pvt Ltd,0.0
+154089266392,Energy Assets Group UK Acquisition Project,2026-02-05,United Kingdom,Europe,Sale Agreement Signed,Acquisition,Energy Assets Group Ltd,1305914972.274
+154089266511,Sienna Bavaria-Saxony Solar Plant Portfolio Project,2026-02-10,Germany,Europe,Announced,Build Own Operate,Sienna Investment Managers SA,36000000.0
+154089266637,New Dammam Project,2026-02-09,Saudi Arabia,"Africa, Middle East, or Central Asia",Announced,Build Own Operate,Alinma Capital CJSC,98000000000.0
+154089266637,,,,,,,Adel Real Estate,
+154089266859,Asarel Medet Pazardzhik Copper Mine Upgrade Project,2026-02-05,Bulgaria,Europe,Announced,Build Own Operate,Asarel Medet AD,214653069.0
+154089266980,OWWSC Muscat Governorate Wastewater Facilities Construction Project,2026-02-10,Oman,"Africa, Middle East, or Central Asia",In Tender,Build Own Operate,Oman Wastewater Services Co,0.0
+154089267085,Prince Naif bin Abdulaziz International Airport PPP Project,2026-02-09,Saudi Arabia,"Africa, Middle East, or Central Asia",Pre Qualification Bids,Public Private Partnership,National Center For Privatization & Ppp,0.0
+154089267085,,,,,,,MATARAT Holding Co,
+154089267096,Komipo Shinan Ui Offshore Wind Acquisition Project,2026-02-11,South Korea,Asia Pacific Excluding Central Asia,Sale Completed,Acquisition,Hyundai Engineering & Construction Co Ltd,96100000000.0
+154089267096,,,,,,,Hanwha Ocean Co Ltd,
+154089267096,,,,,,,Korea Midland Power Co Ltd,
+154089267096,,,,,,,SK eternix Co Ltd,
+154089267203,Wastewater Sludge Into Clean Energy Recycle Plant Project,2026-02-10,Qatar,"Africa, Middle East, or Central Asia",Agreement Signed,Build Own Operate,Public Works Authority - Qatar,0.0
+154089267258,Arval battery EV & Plug Hybrid EV Leasing Portfolio Project,2026-02-04,Czech Republic,Europe,Announced,Build Own Operate,Arval Cz S.R.O,2799828318.0
+154089268359,3Flash Eastern Finland Solar Portfolio Acquisition Project,2026-02-11,Finland,Europe,Sale Completed,Acquisition,3flash Solar Oy,0.0
+154089268359,,,,,,,Alight AB,
+154089268715,Reliance Rayalaseema Solar Project,2026-02-10,India,Asia Pacific Excluding Central Asia,Announced,Build Own Operate,Reliance Group Inc,0.0
+154089268836,Emirates Central Cooling Systems Acquisition Project,2026-02-10,United Arab Emirates,"Africa, Middle East, or Central Asia",Sale Completed,Acquisition,Dubai Holding Corp LLC,5180000000.0
+154089268869,ExxonMobil PNG LNG FSO Project,2026-02-11,Papua New Guinea,Asia Pacific Excluding Central Asia,Contract Awarded,Build Own Operate,ExxonMobil PNG Ltd,0.0
+154089268942,Biobio PtL E Fuels Project,2026-02-10,Chile,Americas,Announced,Build Own Operate,INERATEC GmbH,0.0
+154089269849,Vietnam Hyperscale Data Center Project,2026-02-09,Vietnam,Asia Pacific Excluding Central Asia,Agreement Signed,Build Own Operate,FPT Corp,25860000000325.3
+154089269849,,,,,,,Group 42 Holding Ltd,
+154089269849,,,,,,,Viet Thai Group JSC,
+154089270137,Germany Freight Wagons Acquisition Project,2026-02-12,Germany,Europe,Announced,Acquisition,VTG AG,340000000.0
+154089270283,Bestinver Spain Solar PV Portfolio Acquisition Project,2026-02-12,Spain,Europe,Sale Completed,Acquisition,Bestinver Infra FCR,330000000.0
+154089270283,,,,,,,Terralys Renovables SL,
+154089270288,Avener Mahoba Solar Plant Project,2026-02-12,India,Asia Pacific Excluding Central Asia,Contract Awarded,Build Own Operate,Avener Green Pvt Ltd,0.0
+154089270422,SK Innovation Business Unit Acquisition Project,2026-02-12,South Korea,Asia Pacific Excluding Central Asia,Announced,Acquisition,SK Innovation Co Ltd,0.0
+154089270441,Pace Digitek Karnataka Solar & BESS Project,2026-02-11,India,Asia Pacific Excluding Central Asia,Contract Awarded,Build Own Operate,Pace Digitek Ltd,17750000000.0
+154089270491,Return Germany BESS Portfolio Project,2026-02-05,Germany,Europe,Contract Signed,Build Own Operate,Return Storage BV,0.0
+154089270494,SK Ecoplant Business Unit Acquisition Project,2026-02-12,South Korea,Asia Pacific Excluding Central Asia,Announced,Acquisition,SK Ecoplant Co Ltd,0.0
+154089270514,SK Discovery Business Unit Acquisition Project,2026-02-12,South Korea,Asia Pacific Excluding Central Asia,Announced,Acquisition,SK Discovery Co Ltd,0.0
+154089270632,Modon/ Medlog Jeddah Integrated Logistics Zone Project,2026-02-14,Saudi Arabia,"Africa, Middle East, or Central Asia",Agreement Signed,Build Own Operate,Saudi Authority For Industrial Cities & Technology Zones,137000000.0
+154089270632,,,,,,,Medlog SA,
+154089270637,American Roads Acquisition Project,2026-02-13,United States,Americas,Sale Agreement Signed,Acquisition,CVC DIF Co,0.0
+154089271076,NHAI India Toll Road Portfolio Acquisition Project,2026-02-02,India,Asia Pacific Excluding Central Asia,Sale Completed,Acquisition,National Highways Authority of India,19896860000.0
+154089271076,,,,,,,National Highways Infra Trust,
+154089271097,Severn Trent UK Solar PV Portfolio Project,2026-02-12,United Kingdom,Europe,Contract Signed,Build Own Operate,Severn Trent Green Power Ltd,0.0
+154089271183,Mer UK EV Charging Network Acquisition Project,2026-02-10,United Kingdom,Europe,Sale Completed,Acquisition,Be.Ev,0.0
+154089271221,Dilip Buildcon Navgam - Sardar Vallabhbhai Patel International Airport ATF Pipeline Project,2026-02-13,India,Asia Pacific Excluding Central Asia,Announced,Build Own Operate,Dilip Buildcon Ltd,1240000000.0
+154089271344,Aptus 2576 Germany Solar Plant Portfolio Project,2026-02-13,Germany,Europe,Contract Signed,Build Own Operate,Aptus 2576. Gmbh,0.0
+154089271350,Skypower Service MENA Acquisition Project,2026-02-12,United Arab Emirates,"Africa, Middle East, or Central Asia",Sale Completed,Acquisition,RJ Corp Ltd,0.0
+154089271350,,,,,,,SkyPower Global,
+154089271350,,,,,,,Inox Clean Energy Ltd,
+154089271371,Roccasecca BESS Acquisition Project,2026-02-13,United States,Americas,Sale Agreement Signed,Acquisition,DE Shaw Renewables Investments LLC,66900000.0
+154089271371,,,,,,,Eolus North America Inc,
+154089271384,OMV Petrobrazi Solar Power Project,2026-02-13,Romania,Europe,Announced,Build Own Operate,OMV Petrom SA,45400000.0
+154089271400,Mea Energieagentur Germany Solar Portfolio Project,2026-02-13,Germany,Europe,Contract Signed,Build Own Operate,Mea Energieagentur Mecklenburg-Vorpommern GmbH,0.0
+154089271406,Anumar Inchenhofen & Rattenkirchen Solar Park Portfolio Project,2026-02-13,Germany,Europe,Contract Signed,Build Own Operate,Anumar GmbH,0.0
+154089271466,Faber Solartechnik Germany Solar Portfolio Project,2026-02-13,Germany,Europe,Contract Awarded,Build Own Operate,Faber Solartechnik GmbH,0.0
+154089271506,TEUT Windprojekte Germany Solar Portfolio Project,2026-02-13,Germany,Europe,Contract Awarded,Build Own Operate,TEUT WINDPROJEKTE GMBH,0.0
+154089271568,Gurugram Commercial Southern Peripheral Road Project,2026-02-14,India,Asia Pacific Excluding Central Asia,Announced,Build Own Operate,Millennia Realtors Pvt Ltd,75000000000.0
+154089271568,,,,,,,Gurugram Commercity Pvt Ltd,
+154089271591,Standard Engineering Technology Hyderabad Manufacturing Plant Project,2026-02-13,India,Asia Pacific Excluding Central Asia,Announced,Build Own Operate,Standard Engineering Technology Ltd,2400000000.0
+154089271629,RCF Maharashtra Phosphoric Acid Plant Project,2026-02-12,India,Asia Pacific Excluding Central Asia,Government Approved,Build Own Operate,Rashtriya Chemicals & Fertilizers Ltd,8650000000.0
+154089271645,Inkia Energy Acquisition Project,2026-02-12,Peru,Americas,Sale Agreement Signed,Acquisition,IC Power Ltd,11399860000.0
+154089271656,Peru Power Portfolio Project,2026-02-12,Peru,Americas,Announced,Build Own Operate,Kallpa Generacion SA,0.0
+154089271656,,,,,,,Orazul Energy Peru SA,
+154089271683,Nebius Bethune Data Centre Project,2026-02-12,France,Europe,Announced,Build Own Operate,Nebius Group NV,3033111466.846
+154089271689,Central Farms RNG & Carbon Capture Storage Project,2026-02-12,Canada,Americas,Announced,Build Own Operate,KCL Cattle Co Ltd,98400000.0
+154089271689,,,,,,,Taurus Canada Renewable Natural Gas Corp,
+154089271689,,,,,,,Kasko Cattle Co Ltd,
+154089271732,Prime Infrastructure PSH Portfolio Acquisition Project,2026-02-13,Philippines,Asia Pacific Excluding Central Asia,Sale Agreement Signed,Acquisition,Prime Infrastructure Capital Inc,75000000000.0
+154089271762,The Residences Project,2026-02-05,United Arab Emirates,"Africa, Middle East, or Central Asia",Announced,Build Own Operate,Dubai International Financial Centre,20000000000.0
+154089272185,Wexford Hub Solar Project,2026-02-16,Ireland,Europe,Contract Awarded,Build Own Operate,Electricity Supply Board,0.0
+154089272265,ABO Solar Farm Portfolio Project,2026-02-16,Germany,Europe,Announced,Build Own Operate,ABO Energy GmbH & Co KGaA,0.0
+154089272268,Contact Energy Glenbrook Battery 2.0 Project,2026-02-16,New Zealand,Asia Pacific Excluding Central Asia,Under Construction,Build Own Operate,Contact Energy Ltd,235000000.0
+154089272307,King Country Energy Stake Acquisition Project,2026-02-16,New Zealand,Asia Pacific Excluding Central Asia,Announced,Acquisition,King Country Electric Power Trust,47000000.0
+154089272362,Gramme 1 Project,2026-02-16,Belgium,Europe,Contract Awarded,Build Own Operate,Gramme Storage 1,0.0
+154089272544,Vuolijoki Standalone Battery Energy Storage System Project,2026-02-16,Finland,Europe,Under Construction,Build Own Operate,Nala Renewables LTD,0.0
+154089272544,,,,,,,Fu-Gen AG,
+154089272552,AU Real Ghaziabad Luxury Residential Housing Project,2026-02-16,India,Asia Pacific Excluding Central Asia,Announced,Build Own Operate,Au Real Estate Services Pvt Ltd,15000000000.0
+154089272596,MoRTH Gohpur-Numaligarh Underwater Road Cum Rail Tunnel Project,2026-02-14,India,Asia Pacific Excluding Central Asia,Government Approved,Build Own Operate,Ministry Of Road Transport And Highways,186620000000.0
+154089272638,Melbourne Convention & Exhibition Centre Stake Acquisition Project,2026-02-12,Australia,Asia Pacific Excluding Central Asia,Sale Completed,Acquisition,Plenary Group Pty Ltd,0.0
+154089272638,,,,,,,John Laing Group Ltd,
+154089272843,Al Gihaz Syria Solar & BESS Project,2026-02-17,Syria,"Africa, Middle East, or Central Asia",Announced,Build Own Operate,Al Gihaz Holding Co,0.0
+154089272981,PacifiCorp Washington Assets Acquisition Project,2026-02-15,United States,Americas,Sale Completed,Acquisition,PacifiCorp,1900000000.0
+154089272981,,,,,,,Portland General Electric Co,
+154089272981,,,,,,,Manulife Investment Management Holdings Inc,
+154089273144,Coventry Landfill Solar Project,2026-02-17,United States,Americas,Completed,Build Own Operate,Ameresco Inc,0.0
+154089273144,,,,,,,Luminace Holdings LLC,
+154089273420,Infranode Vejle Battery Storage Project,2026-02-17,Denmark,Europe,Announced,Build Own Operate,Infranode AB,0.0
+154089273675,SAIL Burnpur Captive Power Plant Project,2026-02-17,India,Asia Pacific Excluding Central Asia,Contract Signed,Build Own Operate,Steel Authority of India Ltd,15000000000.0
+154089273722,Uttar Pradesh Green Hydrogen Solar & Battery Storage Project,2026-02-17,India,Asia Pacific Excluding Central Asia,Agreement Signed,Build Own Operate,Lords Mark Industries Pvt Ltd,0.0
+154089273722,,,,,,,Greenzo Energy India Ltd,
+154089273962,Israel Data Centre Project,2026-02-17,Israel,"Africa, Middle East, or Central Asia",Announced,Build Own Operate,Ampa Ltd,0.0
+154089273962,,,,,,,Doral Group Renewable Energy Resources Ltd,
+154089273991,OWWSC Al Ghubra New Water Network Construction Project,2026-02-12,Oman,"Africa, Middle East, or Central Asia",In Tender,Build Own Operate,Oman Water & Wastewater Services Co,0.0
+154089274009,Transgabonese Rail Third Phase Rehabilitation Project,2026-02-17,Gabon,"Africa, Middle East, or Central Asia",Announced,Build Own Operate,Societe dExploitation du Transgabonais (SETRAG),212995448387.308
+154089274064,STADA Sudair Pharmaceutical Manufacturing Project,2026-02-16,Saudi Arabia,"Africa, Middle East, or Central Asia",Agreement Signed,Build Own Operate,Stada Arzneimittel AG,366000000.0
+154089274086,Sudair Pipe Manufacturing Localization Project,2026-02-16,Saudi Arabia,"Africa, Middle East, or Central Asia",Government Approved,Build Own Operate,Jindal Saw Ltd,562000000.0
+154089274086,,,,,,,Buhur For Investment Company,
+154089274116,Ramz Al Hijaz Fund Makkah Residential Towers Project,2026-02-12,Saudi Arabia,"Africa, Middle East, or Central Asia",Announced,Build Own Operate,,418000000.0
+154089274281,OWWSC Najdah New STP Project,2026-02-12,Oman,"Africa, Middle East, or Central Asia",In Tender,Build Own Operate,Oman Water & Wastewater Services Co,0.0
+154089274315,Willstatt BESS Project,2026-02-17,Germany,Europe,Under Construction,Build Own Operate,Neonn SAS,0.0
+154089274861,Mondigo Wind Farm Acquisition Project,2026-02-17,Spain,Europe,Sale Completed,Acquisition,Sinia Renovables SCR SA,0.0
+154089274861,,,,,,,Recursos De La Biomasa,
+154089275040,Sumac & Sweetleaf Solar Acquisition Project,2026-02-18,United States,Americas,Sale Completed,Acquisition,Geenex Solar LLC,0.0
+154089275040,,,,,,,Cleanchoice Energy Inc,
+154089275045,Morlais Tidal Tech GR1 W1.1 Project,2026-02-11,United Kingdom,Europe,Contract Signed,Build Own Operate,Tidal Technologies W1 Ltd,0.0
+154089275074,IHS Towers Colombia & Brazil Telecommunication Towers Acquisition Project,2026-02-17,Colombia,Americas,Sale Completed,Acquisition,IHS Holding Ltd,687943054660.425
+154089275074,,,,,,,Latam Towers Infrastructure LLC,
+154089275178,Big Battery Deutschland Germany Acquisition Project,2026-02-18,Germany,Europe,Sale Completed,Acquisition,terralayr AG,0.0
+154089275178,,,,,,,Averdung Ingenieure & Berater GmbH,
+154089275226,Dewshill Wind Farm Project,2026-02-10,United Kingdom,Europe,Contract Signed,Build Own Operate,Wind Estate A/S,0.0
+154089275297,Glendye Wind Farm Project,2026-02-10,United Kingdom,Europe,Contract Signed,Build Own Operate,Electricity Supply Board,0.0
+154089275297,,,,,,,Coralis SA,
+154089275395,UTAS Muscat Asphalt Road Project,2026-02-17,Oman,"Africa, Middle East, or Central Asia",In Tender,Build Own Operate,The University Of Technology & Applied Sciences,0.0
+154089275415,Hollis Solar Project,2026-02-18,United States,Americas,Contract Signed,Build Own Operate,Primo Brands Corp,0.0
+154089275415,,,,,,,Onyx Renewable Partners LP,
+154089275445,Family Oriented Community & Ultra Luxury Waterfront Portfolio Project,2026-02-06,United Arab Emirates,"Africa, Middle East, or Central Asia",Announced,Build Own Operate,Aldar Properties PJSC,38000000000.0
+154089275445,,,,,,,Dubai Holding Corp LLC,
+154089275543,Naos-1 Hybrid Solar PV & Battery Energy Storage Project,2026-02-09,South Africa,"Africa, Middle East, or Central Asia",Contract Signed,Build Own Operate,Sola Assets (Pty) Ltd,1250000000.0
+154089275592,GVG Glasfaser Germany FTTH Expansion Project,2026-02-16,Germany,Europe,Announced,Build Own Operate,Gvg Glasfaser GmbH,135000000.0
+154089275764,Wyndham Estate Solar Plant Project,2026-02-10,United Kingdom,Europe,Contract Signed,Build Own Operate,Copenhagen Infrastructure Partners P/S,0.0
+154089276121,E&B Renewables Jutland Battery Energy Storage Acquisition Project,2026-02-18,Denmark,Europe,Sale Completed,Acquisition,Niteos GmbH,0.0
+154089276121,,,,,,,E&B Renewables ApS,
+154089276121,,,,,,,Twig Energy Aps,
+154089276136,Zeo / Creekstone Solar & Storage Project,2026-02-18,United States,Americas,Agreement Signed,Build Own Operate,Zeo Energy Corp,0.0
+154089276136,,,,,,,Creekstone Energy LLC,
+154089276222,Innova Solar Portfolio Acquisition Project,2026-02-18,United Kingdom,Europe,Sale Completed,Acquisition,Uniper SE,0.0
+154089276222,,,,,,,Innova Renewables Ltd,
+154089276233,Jutland Battery Energy Storage Project,2026-02-18,Denmark,Europe,Announced,Build Own Operate,Niteos GmbH,0.0
+154089276233,,,,,,,E&B Renewables ApS,
+154089276233,,,,,,,Twig Energy Aps,
+154089276260,Bloch &(Solway Bank Extension) Battery Project,2026-02-17,United Kingdom,Europe,Announced,Build Own Operate,Renewable Energy Systems Ltd,0.0
+154089276273,Aswan Landline Infrastructure Development Phase 1 Project,2026-02-19,Egypt,"Africa, Middle East, or Central Asia",Announced,Build Own Operate,Telecom Egypt Co SAE(WAS 04017C),0.0
+154089276273,,,,,,,Aswan Governorate,
+154089276437,Neoen France Solar & Wind Portfolio Project,2026-02-19,France,Europe,Announced,Build Own Operate,Neoen SA,164000000.0
+154089276512,Fortis Energy Nocaj Solar & Battery Energy Portfolio Project,2026-02-18,Serbia,Europe,Agreement Signed,Build Own Operate,Fortis Energy Group,0.0
+154089276532,Cereza Solar and Battery Storage Acquisition Project,2026-02-18,United States,Americas,Sale Completed,Acquisition,Hecate Energy LLC,0.0
+154089276532,,,,,,,Savion LLC,
+154089276632,Orbital Marine Eday 5 Tidal Stream Project,2026-02-01,United Kingdom,Europe,Contract Signed,Build Own Operate,Coalburn Battery Storage Power,0.0
+154089276660,Kemet Industries/ TBEA Bahariya Oasis Solar Power Plant Phase 1 Project,2026-02-17,Egypt,"Africa, Middle East, or Central Asia",Agreement Signed,Build Own Operate,TBEA Co Ltd,0.0
+154089276660,,,,,,,Kemet Industries,
+154089276666,Kemet Industries/ TBEA Bahariya Oasis Solar Power Plant Phase 2 Project,2026-02-17,Egypt,"Africa, Middle East, or Central Asia",Agreement Signed,Build Own Operate,TBEA Co Ltd,0.0
+154089276666,,,,,,,Kemet Industries,
+154089276679,Paicavi BESS Project,2026-02-16,Chile,Americas,Government Approved,Build Own Operate,,77610599999.993
+154089276795,Fixed-Line Telecommunications Network Development PPP Project,2026-02-19,Kuwait,"Africa, Middle East, or Central Asia",Contract Signed,Public Private Partnership,Beyon BSC,855120000.0
+154089277020,Naturgy Chile Renewables Portfolio Acquisition Project,2026-02-18,Chile,Americas,Announced,Acquisition,Global Power Generation SA,0.0
+154089277158,East Yorkshire Solar Farm Acquisition Project,2026-02-20,United Kingdom,Europe,Sale Completed,Acquisition,Ampyr Solar Europe,0.0
+154089277158,,,,,,,Boom Power Ltd,
+154089277437,Aksa Enerji Divrigi Wind Power Plant Project,2026-02-20,Turkey,Europe,Study & Design,Build Own Operate,Aksa Enerji Uretim AS,0.0
+154089277464,Project BRIDGE,2026-02-18,Nigeria,"Africa, Middle East, or Central Asia",Announced,Build Own Operate,Federal Government of Nigeria,34694455400.002
+154089277565,GreenYellow France Photovoltaic & BESS Power Plants Portfolio Project,2026-02-19,France,Europe,Announced,Build Own Operate,GreenYellow SAS,400000000.0
+154089277578,Sao Mai Xieng Khouang Wind Farm Project,2026-02-11,Laos,Asia Pacific Excluding Central Asia,Agreement Signed,Build Own Operate,Sao Mai Wind Power JSC,9605249999943.61
+154089277659,Turkey ACWA Power Renewable Phase 2 Project,2026-02-20,Turkey,Europe,Announced,Build Own Operate,ACWA Power Co SJSC,131450400000.0
+154089277707,Mozambique Dry Port Construction Project,2026-02-20,Mozambique,"Africa, Middle East, or Central Asia",Announced,Build Own Operate,Government Of Republic Of Belarus,0.0
+154089277735,WindForce Sri Lanka Portfolio BESS Project,2026-02-16,Sri Lanka,Asia Pacific Excluding Central Asia,Contract Signed,Build Own Operate,Windforce PLC,20790000000.0
+154089277764,Kemet Industries/ TBEA Nagaa Hammadi Solar & Standalone Battery Project,2026-02-17,Egypt,"Africa, Middle East, or Central Asia",Agreement Signed,Build Own Operate,TBEA Co Ltd,0.0
+154089277764,,,,,,,Kemet Industries,
+154089277854,NIC Al Tayeb Infrastructure Project,2026-02-21,Iraq,"Africa, Middle East, or Central Asia",Announced,Build Own Operate,National Investment Commission,6547500000002.83
+154089278517,Tetris Brunswick East Affordable Housing project,2026-02-12,Australia,Asia Pacific Excluding Central Asia,Agreement Signed,Build Own Operate,Tetris Capital Pty Ltd,246345936.795
+154089278714,Andion Italy Biogas Plant Pipeline Project,2026-02-23,Italy,Europe,Announced,Build Own Operate,Andion CH4 Renewables,67000000.0
+154089278755,Qualitas Spain Renewable Energy Project,2026-02-12,Spain,Europe,Announced,Build Own Operate,Qualitas Energy SL,62000000.0
+154089278817,Heygaz Spain Biomethane Portfolio Project,2026-02-10,Spain,Europe,Announced,Build Own Operate,Heygaz Biomethane SL,0.0
+154089278980,Fort Duncan BESS Acquisition Project,2026-02-24,United States,Americas,Sale Completed,Acquisition,Recurrent Energy Inc,0.0
+154089278980,,,,,,,Hunt Energy Network LLC,
+154089279067,Fotowatio Andalusia-Extremadura Solar & Battery Storage Portfolio Project,2026-02-23,Spain,Europe,Announced,Build Own Operate,Fotowatio Renewable Ventures SLU,0.0
+154089279108,Continuum Green Energy India Acquisition Project,2026-02-23,India,Asia Pacific Excluding Central Asia,Announced,Acquisition,Continuum Green Energy Holdings Ltd,18202200000.0
+154089279189,Astra Rise Developments New Administrative Capital Hotel Project,2026-02-23,Egypt,"Africa, Middle East, or Central Asia",Contract Signed,Build Own Operate,Astra Rise Developments,4000000000.0
+154089279204,Sagepoint Energy Landfill-to-RNG Expansion Portfolio Project,2026-02-24,United States,Americas,Announced,Build Own Operate,Sagepoint Energy LLC,85000000.0
+154089279208,Burcot Battery Project,2026-02-18,United Kingdom,Europe,Announced,Build Own Operate,Ethical Power Ltd,0.0
+154089279482,Excelsior US Wind & Solar Portfolio Acquisition Project,2026-02-18,United States,Americas,Sale Completed,Acquisition,Enel Green Power North America Inc,1300000000.0
+154089279482,,,,,,,Excelsior Energy Capital LP,
+154089279482,,,,,,,EGPNA Project Holdco 2 LLC,
+154089280005,"Alabama and Georgia Power Generation, Transmission and Grid Enhancement Portfolio Project",2026-02-25,United States,Americas,Announced,Build Own Operate,Alabama Power Co,26500000000.0
+154089280005,,,,,,,Georgia Power Co,
+154089280148,Mendoza Sur - Diamante Project,2026-02-23,Argentina,Americas,Announced,Build Own Operate,Genneia SA,410399999999.879
+154089280153,Koiviston Auto Finland Electric Bus Fleet Expansion Refinancing Project,2026-02-23,Finland,Europe,Announced,Build Own Operate,Koiviston Auto Oy,297000000.0
+154089280246,Defic Romania Hybrid Renewables Portfolio Acquisition Project,2026-02-21,Romania,Europe,Sale Agreement Signed,Acquisition,Defic Globe Enerji A.S,0.0
+154089280261,Atnorth Holding Solleftea Municipality Data Centre Project,2026-02-24,Sweden,Europe,Announced,Build Own Operate,Atnorth Holding AB,0.0
+154089280295,Walker Solar Project,2026-02-24,United States,Americas,Under Construction,Build Own Operate,MN8 Energy LLC,0.0
+154089280306,A154 & A120 Motorway Link Project,2026-02-20,France,Europe,Negotiations,Build Own Operate,,0.0
+154089280308,Los Angeles Basin Pilot Geothermal Project,2026-02-25,United States,Americas,Agreement Signed,Build Own Operate,Gradient Geothermal Inc,0.0
+154089280308,,,,,,,Muir Global Holdings LLC,
+154089280418,Avadh Bihar Steel Plant Project,2026-02-23,India,Asia Pacific Excluding Central Asia,Agreement Signed,Build Own Operate,Avadh Steel Corporation,60000000000.0
+154089280507,CleanMax Andhra Pradesh Solar Power Park Project,2026-02-24,India,Asia Pacific Excluding Central Asia,Contract Signed,Build Own Operate,Clean Max Enviro Energy Solutions Ltd,12000000000.0
+154089280735,EDF Cambodia Hydropower Project,2026-02-19,Cambodia,Asia Pacific Excluding Central Asia,Planning Permission Applied,Build Own Operate,Electricite De France SA,4812000000009.48
+154089281072,Assiut Governorate Hawatka Bridge Renovation Project,2026-02-25,Egypt,"Africa, Middle East, or Central Asia",Under Construction,Build Own Operate,General Authority For Roads Bridges And Land Transport,0.0
+154089281072,,,,,,,General Nile Company For Road Construction,
+154089281072,,,,,,,Asyut Governorate,
+154089281604,Ras Laffan B Acquisition Project,2026-02-26,Qatar,"Africa, Middle East, or Central Asia",Negotiations,Acquisition,International Power (Ras Laffan B) Ltd,0.0
+154089281613,Cyan Renewables / LX International / Blue Water Shipping Dangjin Offshore Wind Marshalling Port Facility Project,2026-02-10,South Korea,Asia Pacific Excluding Central Asia,Agreement Signed,Build Own Operate,LX INTERNATIONAL CORP,0.0
+154089281613,,,,,,,Blue Water Shipping A/S,
+154089281613,,,,,,,Cyan Renewables Pte Ltd,
+154089281813,Masdar Wind Repowering Portfolio Acquisition Project,2026-02-25,Portugal,Europe,Sale Completed,Acquisition,Exus Management Partners SL,330256583.961
+154089281813,,,,,,,Masdar,
+154089281822,Abu Dhabi Baby Food Manufacturing Facility Project,2026-02-25,United Arab Emirates,"Africa, Middle East, or Central Asia",Under Construction,Build Own Operate,Khalifa Economic Zones Abu Dhabi Group LLC,150000000.0
+154089281822,,,,,,,Barakat Group,
+154089281822,,,,,,,Pure Baby Food Industries L.L.C- SPC,
+154089281857,Synthos/ GE Poland Small Modular Reactor Project,2026-02-24,Poland,Europe,Agreement Signed,Build Own Operate,GE Vernova Hitachi Nuclear Energy Holdings LLC,0.0
+154089281857,,,,,,,Synthos Green Energy,
+154089281963,Farmers Irrigation Co Santa Paula Solar Rooftop Project,2026-02-26,United States,Americas,Completed,Build Own Operate,REC Solar Inc,0.0
+154089281963,,,,,,,Ventura Energy,
+154089281974,Blufield Solar England AR108 Bolt Solar Power Project,2026-02-10,United Kingdom,Europe,Contract Awarded,Build Own Operate,Bluefield Solar Income Fund Ltd,0.0
+154089282041,Canadian Solar HF25 England Solar Power Project,2026-02-10,United Kingdom,Europe,Contract Awarded,Build Own Operate,Canadian Solar Inc,0.0
+154089282583,Aberthaw East Solar Farm Project,2026-02-10,United Kingdom,Europe,Contract Signed,Build Own Operate,Low Carbon Ltd,0.0
+154089282588,Bluefield England Solar Farm Project,2026-02-10,United Kingdom,Europe,Contract Signed,Build Own Operate,Bluefield Solar Income Fund Ltd,0.0
+154089282597,Deptford Solar Farm Project,2026-02-06,United Kingdom,Europe,Contract Signed,Build Own Operate,Copenhagen Infrastructure Partners P/S,0.0
+154089282647,Canadian Solar Wales CYP25 Solar Project,2026-02-10,United Kingdom,Europe,Contract Awarded,Build Own Operate,Canadian Solar Inc,0.0
+154089282701,Innova Renewables Milton Solar Farm Project,2026-02-10,United Kingdom,Europe,Contract Awarded,Build Own Operate,Innova Renewables Ltd,0.0
+154089282786,Colchester Solar Farm Project,2026-02-10,United Kingdom,Europe,Contract Signed,Build Own Operate,Skye Group,0.0
+154089282791,Eastbourne Solar Project,2026-02-10,United Kingdom,Europe,Contract Signed,Build Own Operate,,0.0
+154089282818,Greenspan Scotland Solar Farm Project,2026-02-10,United Kingdom,Europe,Contract Signed,Build Own Operate,Greenspan Energy Ltd,0.0
+154089282827,Canadian HW25 England Solar Power Project,2026-02-10,United Kingdom,Europe,Contract Signed,Build Own Operate,Canadian Solar Inc,0.0
+154089282831,Garendon Solar Plant Project,2026-02-10,United Kingdom,Europe,Contract Signed,Build Own Operate,,0.0
+154089282895,Pelagic Energy UK Hampton Lodge Solar Farm Project,2026-02-10,United Kingdom,Europe,Contract Signed,Build Own Operate,Pelagic Energy Development Ltd,0.0
+154089282906,Talgren Solar Project,2026-02-10,United Kingdom,Europe,Contract Signed,Build Own Operate,Recurrent Energy LLC,0.0
+154089282906,,,,,,,Windel Energy,
+154089282909,Blufield solar Wallace Wood Solar Project,2026-02-10,United Kingdom,Europe,Contract Awarded,Build Own Operate,Bluefield Solar Income Fund Ltd,0.0
+154089282915,Pathfinder Clean Energy England Maleys Solar Project,2026-02-10,United Kingdom,Europe,Contract Awarded,Build Own Operate,Pathfinder Clean Energy (Pace) Ltd,0.0
+154089283177,Himile Egypt Tire Mold Factory Phase 1 Project,2026-02-23,Egypt,"Africa, Middle East, or Central Asia",Announced,Build Own Operate,Himile Group Co Ltd,4771000000.0
+154089283372,Costa Sur Power Plant PPP Project,2026-02-24,Puerto Rico,Americas,Request for Proposal (RFP),Public Private Partnership,Puerto Rico Electric Power Authority,0.0
+154089283372,,,,,,,Puerto Rico Public-Private Partnerships Authority,
+154089283418,Echelon Ireland Data Centre Portfolio Project,2026-02-24,Ireland,Europe,Announced,Build Own Operate,Starwood Capital Group Global LLC,0.0
+154089283418,,,,,,,Nimol Holdings Ltd,
+154089283478,RheinEnergie Cologne Ground-Mounted Solar PV Plant Project,2026-02-19,Germany,Europe,Contract Signed,Build Own Operate,RheinEnergie AG,0.0
+154089283604,MARA / Starwood USA Data Center Portfolio Project,2026-02-26,United States,Americas,Agreement Signed,Build Own Operate,MARA USA Corp,0.0
+154089283604,,,,,,,Starwood Digital Ventures LLC,
+154089283663,Iolo Energy Pen Onn Solar Farm Project,2026-02-10,United Kingdom,Europe,Contract Awarded,Build Own Operate,Iolo Energy Ltd,0.0
+154089283732,Innovo Renewables Italy Solar Portfolio Project,2026-02-24,Italy,Europe,Announced,Build Own Operate,Innovo Renewables SpA,80500000.0
+154089283796,Cogein Castelpagano & Rapone Wind Portfolio Acquisition Project,2026-02-26,Italy,Europe,Sale Completed,Acquisition,Equita Green Impact Fund,0.0
+154089283796,,,,,,,Cogein Energy S.R.L.,
+154089283872,Minera Altair La Farola Copper-Gold Acquisition Project,2026-02-26,Chile,Americas,Announced,Acquisition,Mineria Altair Sa,432429999999.938
+154089283921,Mor Energy GO3 Tidal Phase 2 Project,2026-02-10,United Kingdom,Europe,Contract Awarded,Build Own Operate,Mor Energy Ltd,0.0
+154089283933,Helios Energia/ Energea Solar Portfolio Project,2026-02-25,Colombia,Americas,Announced,Build Own Operate,Energea Global LLC,368450000000.656
+154089283933,,,,,,,Helios Energa Inteligente SL,
+154089283967,Umm Qasr Port Terminal 2 Expansion Project,2026-02-26,Iraq,"Africa, Middle East, or Central Asia",Announced,Build Own Operate,Aloreen Investment Company Ltd,523800000000.227
+154089283987,Elm Wind Holdings Imerys Wind Farm Project,2026-02-10,United Kingdom,Europe,Contract Awarded,Build Own Operate,Elm Wind Holdings Ltd,0.0
+154089283995,OAMC Jabal al Akhdar & Masirah Regional Airport Development Project,2026-02-24,Oman,"Africa, Middle East, or Central Asia",In Tender,Build Own Operate,Oman Airports Management Co SAOC,0.0
+154089284017,Ras Laffan C Acquisition Project,2026-02-26,Qatar,"Africa, Middle East, or Central Asia",Sale Agreement Signed,Acquisition,Kahrabel FZE,0.0
+154089284036,Petalo Del Norte I Solar Farm Acquisition Project,2026-02-26,Colombia,Americas,Sale Agreement Signed,Acquisition,Erco Energia SAS,0.0
+154089284036,,,,,,,Generator 205 SL,
+154089284095,Bluefield BF31 WHF England Solar Project,2026-02-10,United Kingdom,Europe,Contract Signed,Build Own Operate,Bluefield Renewable Developments Ltd,0.0
+154089284111,Project Gateway Acquisition Project,2026-02-24,United States,Americas,Sale Agreement Signed,Acquisition,Plug Power Inc,142000000.0
+154089284440,Sokhna Port Digital Truck Management System Project,2026-02-24,Egypt,"Africa, Middle East, or Central Asia",Contract Signed,Build Own Operate,National Transport & Overseas Services Co,1000000000.0
+154089284440,,,,,,,Nafith Logistics,
+154089284675,Anthem Notsi Solar Project,2026-02-10,South Africa,"Africa, Middle East, or Central Asia",Contract Signed,Build Own Operate,Anthem (Pty) Ltd,9000000000.0
+154089284735,Harrison Street Maryland Data Center Portfolio Acquisition Project,2026-02-24,United States,Americas,Sale Completed,Acquisition,Harrison Street Real Estate Capital LLC,221900000.0
+154089284735,,,,,,,GI Manager LP,
+154089284765,Bordeaux AI & Cloud Data Center Campus Project,2026-02-24,France,Europe,Agreement Signed,Build Own Operate,Altarea SCA,0.0
+154089284765,,,,,,,Vantage Data Centers Management Co LLC,
+154089284897,Project Gemini,2026-02-27,Iceland,Europe,Sale Completed,Acquisition,Partners Group Holding AG,956578424256.012
+154089284897,,,,,,,Equinix Inc,
+154089284897,,,,,,,Canada Pension Plan Investment Board,
+154089284908,Venture Global CP2 LNG Phase 2 Project,2026-02-02,United States,Americas,Agreement Signed,Build Own Operate,Venture Global LNG Inc,12667011600.0
+154089285092,CO Bar Solar and BESS - CBBA Project,2026-02-28,United States,Americas,Announced,Build Own Operate,,0.0
+154089285103,Parsons Solar Park Phase 1 Project,2026-02-27,South Africa,"Africa, Middle East, or Central Asia",Contract Awarded,Build Own Operate,Yellow Door Energy,0.0
+154089285103,,,,,,,Elm Wind Holdings Ltd,
+154089285103,,,,,,,Raw Renewables,
+154089285532,Lodha Developers Parel-Sewri Slum Redevelopment Project,2026-02-11,India,Asia Pacific Excluding Central Asia,Agreement Signed,Build Own Operate,Lodha Developers Ltd,3650000000.0
+154089285753,MAIF4 / Gabia Ansan Data Center Project,2026-02-25,South Korea,Asia Pacific Excluding Central Asia,Agreement Signed,Build Own Operate,Gabia Inc,0.0
+154089285753,,,,,,,Macquarie Asia-Pacific Infrastructure Fund 4 LP,
+154089285823,Low Carbon Medway Energy Centre Acquisition Project,2026-02-26,United Kingdom,Europe,Announced,Acquisition,Low Carbon Investment Management Ltd,0.0
+154089285901,Grenergy Chile Central Oasis Platform Portfolio Financing Project,2026-02-10,Chile,Americas,Announced,Build Own Operate,Grenergy Renovables SA,304068150000.066
+154089285924,EdgeConneX Skelleftea Data Centre Project,2026-02-27,Sweden,Europe,Announced,Build Own Operate,EdgeConneX Inc,7982014567.5
+154089285934,Hyundai Motor Gunsan Innovation Hub Solar Project,2026-02-23,South Korea,Asia Pacific Excluding Central Asia,Agreement Signed,Build Own Operate,Hyundai Motor Group,1300000000000.0
+154089285961,Hyundai Motor Gunsan Innovation Hub AI Data Center Project,2026-02-23,South Korea,Asia Pacific Excluding Central Asia,Agreement Signed,Build Own Operate,Hyundai Motor Group,5800000000000.0
+154089285966,STEG Beni M'Hira Solar & Battery Storage Project,2026-02-25,Tunisia,"Africa, Middle East, or Central Asia",Announced,Build Own Operate,Societe Tunisienne de L' Electricite et du Gaz,202089778.8
+154089285969,Plaine Ayeme Solar & Battery Storage Power Project,2026-02-20,Gabon,"Africa, Middle East, or Central Asia",Contract Awarded,Build Own Operate,Solen SA,18344499880.002
+154089286310,Project Ruby,2026-02-12,United States,Americas,Contract Signed,Build Own Operate,Atlas Development Corp,5200000000.0
+154089286310,,,,,,,Development Authority Of Columbus Georgia,
+154089286310,,,,,,,Habitat Partners,
+154089286344,Mlada Boleslav Skoda Battery System assembly Plant Project,2026-02-27,Czech Republic,Europe,Commissioning,Build Own Operate,Skoda Automobilovy Koncern Ltd,4962233751.5
+154089286833,Wheatridge Solar & Battery Storage Expansion Project,2026-02-17,United States,Americas,Contract Signed,Build Own Operate,NextEra Energy Inc,490000000.0
+154089286833,,,,,,,Portland General Electric Co,
+154089286858,Hyundai Motor Gunsan Innovation Hub Robotics Manufacturing Cluster Project,2026-02-23,South Korea,Asia Pacific Excluding Central Asia,Agreement Signed,Build Own Operate,Hyundai Motor Group,400000000000.0
+154089286874,Hyundai Motor Gunsan Innovation Hub PEM Electrolyzer Plant Project,2026-02-23,South Korea,Asia Pacific Excluding Central Asia,Agreement Signed,Build Own Operate,Hyundai Motor Group,1000000000000.0
+154089286882,Hyundai Motor Gunsan Innovation Hub AI Hydrogen Smart City Project,2026-02-23,South Korea,Asia Pacific Excluding Central Asia,Agreement Signed,Build Own Operate,Hyundai Motor Group,400000000000.0
+154089286989,Meadowlark BESS Project,2026-02-17,United States,Americas,Contract Signed,Build Own Operate,Copenhagen Infrastructure Partners P/S,0.0
+154089287033,Nottingham BESS Project,2026-02-17,United States,Americas,Contract Signed,Build Own Operate,Jupiter Power LLC,0.0
+154089287229,UK Power Networks Acquisition Project,2026-02-25,United Kingdom,Europe,Sale Completed,Acquisition,Power Assets Holdings Ltd,10500000000.0
+154089287229,,,,,,,CK Infrastructure Holdings Ltd,
+154089287229,,,,,,,CK Asset Holdings Ltd,
+154089287677,Sol de Verano Battery Energy Storage System Project,2026-02-17,Chile,Americas,Awaiting Government Approval,Build Own Operate,Goldbeck Solar GmbH,173001999999.941
+154089288353,Sweden Onshore Wind Project,2026-02-05,Sweden,Europe,Agreement Signed,Build Own Operate,Kommunal Landspensjonskasse Gjensidig Forsikringsselskap,4619830000.0
+154089288353,,,,,,,AMF Tjanstepension AB,
+154089288353,,,,,,,Alecta Tjanstepension Omsesidigt,
+154089288353,,,,,,,Stena Adactum AB,
+154089288518,Aster Hospital Expansion Project,2026-02-10,United Arab Emirates,"Africa, Middle East, or Central Asia",Announced,Build Own Operate,Aster DM Healthcare LLC,300000000.0
+154089289290,MG Developments Egypt VALO Hospitality Portfolio Project,2026-02-24,Egypt,"Africa, Middle East, or Central Asia",Under Construction,Build Own Operate,Mg Developments,2000000000.0
+154089290046,Gail Greenfield Wind Project,2026-02-27,India,Asia Pacific Excluding Central Asia,Government Approved,Build Own Operate,GAIL (India) Ltd,17362500000.0
+154089291042,Madrid Data Centre Project,2026-02-26,Spain,Europe,Agreement Signed,Build Own Operate,Solaria Energia y Medio Ambiente SA,0.0
+154089291042,,,,,,,Merlin Properties SOCIMI SA,
+154089292809,Trekenning Farm - Battery Project,2026-02-28,United Kingdom,Europe,Announced,Build Own Operate,Casa dos Ventos Energias Renovaveis SA,0.0
+154089293124,Enerparc Energy Gujarat Wind & Solar Hybrid Power Project,2026-02-25,India,Asia Pacific Excluding Central Asia,Contract Awarded,Build Own Operate,Enerparc Energy Pvt Ltd,0.0
+154089293768,Goldenray Sinazongwe Solar Project,2026-02-24,Zambia,"Africa, Middle East, or Central Asia",Agreement Signed,Build Own Operate,Goldenray Energy Ltd,0.0
+154089294565,Oyster Renewable Kadapa Hybrid Renewable Power Project,2026-02-16,India,Asia Pacific Excluding Central Asia,Contract Awarded,Build Own Operate,Dalmia Cement (Bharat) Ltd,2700000000.0
+154089294565,,,,,,,Oyster Renewable Energy Pvt Ltd,
+154089295155,Bio Hold Italy Biomethane Plant Portfolio Project,2026-02-19,Italy,Europe,Announced,Build Own Operate,Bio Hold Srl,99500000.0
+154089295446,INOXAP Dewas Nitrogen Plant Project,2026-02-24,India,Asia Pacific Excluding Central Asia,Agreement Signed,Build Own Operate,INOX Air Products Pvt Ltd,0.0
+154089295797,Erbienergia Castilla Pumped Hydropower Storage Facility Acquisition Project,2026-02-23,Spain,Europe,Sale Completed,Acquisition,Alpiq AG,0.0
+154089295797,,,,,,,Erbienergia Inversiones SL,
+154089297423,Kannisto & Korkeamaa Battery Plant Project,2026-02-25,Finland,Europe,Contract Signed,Build Own Operate,OX2 AB,0.0
+154089298856,Project Quirinale,2026-02-06,Italy,Europe,Announced,Acquisition,Mapfre SA,320000000.0
+154089298856,,,,,,,Swiss Life Asset Management AG,
+154089299111,Texas Battery Storage & Solar Portfolio Project,2026-02-23,United States,Americas,Contract Signed,Build Own Operate,Hudson Sustainable Group,28500000.0
+154089299111,,,,,,,Heritage Energy Storage Devco I LLC,
+154089299907,Durban Gas-Fired Power Station & LNG Project,2026-02-16,South Africa,"Africa, Middle East, or Central Asia",Announced,Build Own Operate,ACWA Power Co SJSC,0.0
+154089299907,,,,,,,Vivo Energy Ltd,
+154089299924,Castilla y Leon BESS Acquisition Project,2026-02-13,Spain,Europe,Sale Completed,Acquisition,Solaria Energia y Medio Ambiente SA,0.0
+154089299933,Virya Poland Solar Portfolio Acquisition Project,2026-02-18,Poland,Europe,Announced,Acquisition,Virya Energy NV,0.0
+154089301121,MN8 Warehouse Project,2026-02-13,United States,Americas,Announced,Build Own Operate,MN8 Energy LLC,500000000.0
+154089302541,Justified Data Campus Project,2026-02-01,United States,Americas,Agreement Signed,Build Own Operate,TeraWulf Inc,4000000000.0
+154089303348,Copia Arizona Solar & Storage Portfolio Project,2026-02-24,United States,Americas,Announced,Build Own Operate,Copia PowerTM,123620000.0
+154089305879,MAFW Ibri Recharge Dam Portfolio Project,2026-02-05,Oman,"Africa, Middle East, or Central Asia",In Tender,Build Own Operate,Ministry Of Agriculture Fisheries & Water Resources,0.0
+154089308037,Barney Davis Desalination Project,2026-02-01,United States,Americas,Government Approved,Build Own Operate,City Of Corpus Christi,600000000.0
+154089308037,,,,,,,City Public Service of San Antonio,
+154089309712,VodafoneZiggo Group Netherlands Telecommunication Stake Acquisition Project,2026-02-18,Netherlands,Europe,Sale Agreement Signed,Acquisition,Vodafoneziggo Group Holding BV,0.0
+154089309875,Liberty Global Belgium FTTH & HFC Telecom Project,2026-02-02,Belgium,Europe,Announced,Build Own Operate,Liberty Global Holdings Ltd,708949020.273
+154089310949,Virya Solar Plant & BESS Portfolio Project,2026-02-26,Poland,Europe,Agreement Signed,Build Own Operate,European Bank For Reconstruction & Development,358711968.85
+154089310949,,,,,,,Virya Energy NV,
+154089314807,Harvey Solar Acquisition Project,2026-02-09,United States,Americas,Sale Completed,Acquisition,Leeward Renewable Energy LLC,0.0
+154089314807,,,,,,,Open Road Renewables LLC,
+154089316618,WP Suettorf Erweiterung,2026-02-26,Germany,Europe,Announced,Build Own Operate,Wpd GmbH,21700000.0
+154089317226,MDC 3 Project,2026-02-19,United States,Americas,Under Construction,Build Own Operate,CloudHQ LLC,1524561400.0
+154089318492,Cocales Solar & BESS Project,2026-02-01,Guatemala,Americas,Contract Signed,Build Own Operate,Grupo Ecoener SA,0.0
+154089318513,La Hulera Solar & BESS Project,2026-02-01,Guatemala,Americas,Contract Signed,Build Own Operate,Grupo Ecoener SA,0.0
+154089318627,Punto Valle Refinancing Project,2026-02-26,Mexico,Americas,Announced,Build Own Operate,Grupo Visa SA de CV,2200000000.0
+154089318911,NextEra Energy Hybrid Renewable Energy Portfolio Project,2026-02-03,United States,Americas,Announced,Build Own Operate,NextEra Energy Inc,1536340000.0
+154089320239,Tihange Greenfield Battery Energy Storage Acquisition Project,2026-02-16,Belgium,Europe,Announced,Acquisition,Kallima Energies,40000000.0
+154089321669,SAE Iglesias BESS Hibrido Project,2026-02-28,Spain,Europe,Announced,Build Own Operate,BOREAS Energie GmbH,0.0
+154089322006,El Vallito Hibrido Battery Storage Project,2026-02-28,Spain,Europe,Announced,Build Own Operate,Iberdrola SA,0.0
+154089322465,Flower Infrastructure Sweden Energy Infrastructure Assets Project,2026-02-06,Sweden,Europe,Announced,Build Own Operate,Flower Infrastructure Technologies AB,700000000.0
+154089322510,Wasatch Group Idaho Falls Multifamily Project,2026-02-27,United States,Americas,Announced,Build Own Operate,Wasatch Group,48500000.0
+154089322748,GPG Latin America Portfolio Refinancing Project,2026-02-19,Mexico,Americas,Announced,Build Own Operate,Global Power Generation SA,22468643518.36
+154089323969,Echelon Data Centre Acquisition Project,2026-02-23,Ireland,Europe,Announced,Acquisition,Starwood Capital Group Management LLC,1700000000.0
+154089325937,Cordelio Flagler Wind Project,2026-02-01,United States,Americas,Planning Permission Applied,Build Own Operate,Cordelio Power Inc,0.0
+154089326245,Veltaro Hospitality Spain Hotel Puerto Corso Ibiza Acquisition Project,2026-02-26,Spain,Europe,Sale Completed,Acquisition,Veltaro Hospitality SL,188180000.0
+154089327338,BluPine Energy Karnataka Solar Project,2026-02-25,India,Asia Pacific Excluding Central Asia,Agreement Signed,Build Own Operate,Blupine Energy Pvt Ltd,590000000.0
+154089327552,Project Mosaic,2026-02-16,United Kingdom,Europe,Announced,Build Own Operate,Octopus Energy Ltd,451900000.0
+154089327610,SAE Puertollano II Hibrido Project,2026-02-28,Spain,Europe,Announced,Build Own Operate,Iberdrola SA,0.0
+154089328789,BluPine Energy Rajasthan Solar Project,2026-02-25,India,Asia Pacific Excluding Central Asia,Contract Signed,Build Own Operate,Blupine Energy Pvt Ltd,6240000000.0
+154089329014,Luna Warehouse Facility Project,2026-02-26,United States,Americas,Announced,Build Own Operate,Sunrun Inc,240000000.0
+154089329093,Nkantha Photovoltaic Power Plant Project,2026-02-01,Mozambique,"Africa, Middle East, or Central Asia",Under Construction,Build Own Operate,Republic Of Korea,759000000.0
+154089329093,,,,,,,Republic of Mozambique,
+154089329189,GCP Investments 1 Thermal Power Plant Portfolio Project,2026-02-03,United States,Americas,Announced,Build Own Operate,GCP Investments 1 LLC,350000000.0
+154089330007,MRS Logistica Baixada Santista Rail Corridor Improvement Project,2026-02-13,Brazil,Americas,Contract Signed,Design Build Finance Operate,MRS Logistica SA,6877000000.0
+154089330127,Chicago & Charlotte Data Center Portfolio Project,2026-02-19,United States,Americas,Announced,Build Own Operate,T5 Data Centers LLC,850000000.0
+154089330127,,,,,,,QuadReal Property Group LP,
+154089330862,BluPine Karnataka Solar Plant Project,2026-02-25,India,Asia Pacific Excluding Central Asia,Announced,Build Own Operate,Blupine Energy Pvt Ltd,610000000.0
+154089330901,Blupine Madhya Pradesh and Telangana Solar Project,2026-02-25,India,Asia Pacific Excluding Central Asia,Announced,Build Own Operate,Blupine Energy Pvt Ltd,3360000000.0
+154089330948,Blupine Gujarat Solar Plant Project,2026-02-25,India,Asia Pacific Excluding Central Asia,Announced,Build Own Operate,Blupine Energy Pvt Ltd,4940000000.0
+154089330999,BluPine Tamil Nadu Solar Plant Project,2026-02-25,India,Asia Pacific Excluding Central Asia,Announced,Build Own Operate,Blupine Energy Pvt Ltd,3540000000.0
+154089331046,Blupine Karnataka Solar Project,2026-02-25,India,Asia Pacific Excluding Central Asia,Announced,Build Own Operate,Blupine Energy Pvt Ltd,1570000000.0
+154089332191,"Engie Brazil Wind, Solar & Hydro Power Portfolio Project",2026-02-25,Brazil,Americas,Announced,Build Own Operate,Engie Brasil Energia SA,2600000000.0
+154089333087,Osee Orizari Parvomay BESS Plant Project,2026-02-28,Bulgaria,Europe,Announced,Build Own Operate,,0.0
+154089333194,Savage Rail Acquisition Project,2026-02-23,United States,Americas,Sale Completed,Acquisition,Cando Rail & Terminals Ltd,200000000.0
+154089333194,,,,,,,Savage Enterprises LLC,
+154089333421,Blupine Energy Rajasthan Solar Project,2026-02-25,India,Asia Pacific Excluding Central Asia,Announced,Build Own Operate,Blupine Energy Pvt Ltd,640000000.0
+154089333451,Blupine Energy Tamil Nadu TN1 Solar Project,2026-02-25,India,Asia Pacific Excluding Central Asia,Announced,Build Own Operate,Blupine Energy Pvt Ltd,3560000000.0
+154089333479,Ceigall India Southern Ludhiana Bypass Highway Road Project,2026-02-17,India,Asia Pacific Excluding Central Asia,Announced,Build Own Operate,Ceigall India Ltd,6325400000.0
+154089334373,Blupine Energy Karnataka Solar Project,2026-02-25,India,Asia Pacific Excluding Central Asia,Announced,Build Own Operate,Blupine Energy Pvt Ltd,880000000.0
+154089334382,Blupine Energy Maharashtra Solar Project,2026-02-25,India,Asia Pacific Excluding Central Asia,Announced,Build Own Operate,Blupine Energy Pvt Ltd,2450000000.0
+154089334397,Premier Energy BESS Project,2026-02-28,Romania,Europe,Announced,Build Own Operate,Premier Energy Srl,0.0
+154089337716,Azora Cerdanyola PBSA Project,2026-02-23,Spain,Europe,Announced,Build Own Operate,Azora Capital SL,36000000.0
+154089338103,Mokolobane Solar PV Project,2026-02-05,South Africa,"Africa, Middle East, or Central Asia",Announced,Build Own Operate,,9943915000.0
+154089340904,France Nuclear Power Plant Portfolio Project,2026-02-26,France,Europe,Announced,Build Own Operate,France,2750000000.0
+154089341584,Prapetno BESS Project,2026-02-28,Slovenia,Europe,Announced,Build Own Operate,Holding Slovenske elektrarne doo,0.0
+154089344896,GMT Northamptonshire Biomethane Project,2026-02-19,United Kingdom,Europe,Planning Permission Granted,Build Own Operate,Gmt Biogas Holdings Ltd,0.0
+154089345345,Fortvolt Sopot BESS Plant Project,2026-02-28,Bulgaria,Europe,Announced,Build Own Operate,,0.0
+154089345374,Gama Build Tenevo BESS Plant Project,2026-02-28,Bulgaria,Europe,Announced,Build Own Operate,,0.0
+154089347206,Green Energy Storage Parvomay BESS Plant Project,2026-02-28,Bulgaria,Europe,Announced,Build Own Operate,,0.0
+154089348216,Greens Parvomay BESS Plant Project,2026-02-28,Bulgaria,Europe,Announced,Build Own Operate,,0.0
+154089350878,Izida Isis BESS Plant Project,2026-02-28,Bulgaria,Europe,Announced,Build Own Operate,,0.0
+154089351838,IMIP Solar & Battery Energy Storage System Project,2026-02-09,Indonesia,Asia Pacific Excluding Central Asia,Under Construction,Build Own Operate,PT Sumber Energi Surya Morowali,3605700000029.09
+154089355372,Sangeo Pazardzhik BESS Plant Project,2026-02-28,Bulgaria,Europe,Announced,Build Own Operate,,0.0
+154089358734,Bezo Sopot BESS Project,2026-02-28,Bulgaria,Europe,Announced,Build Own Operate,,0.0
+154089358764,Bio Les Group Kostinbrod BESS Project,2026-02-28,Bulgaria,Europe,Announced,Build Own Operate,,0.0
+154089359429,Cesar Trade Bulgaria BESS Plant Project,2026-02-28,Bulgaria,Europe,Announced,Build Own Operate,,0.0
+154089380271,Solar Batteries Vulchedrum Valchedru BESS Plant Project,2026-02-28,Bulgaria,Europe,Announced,Build Own Operate,,0.0
+154089384969,Sse Ceramics Panagyurishte BESS Plant Project,2026-02-28,Bulgaria,Europe,Announced,Build Own Operate,,0.0
+154089429902,Toki Storage Vidin BESS Plant Project,2026-02-28,Bulgaria,Europe,Announced,Build Own Operate,,0.0
+154089430632,Targovishte Project 600 Targovishte BESS Plant Project,2026-02-28,Bulgaria,Europe,Announced,Build Own Operate,,0.0
+154089431013,Targovishte Project 601 Targovishte BESS Plant Project,2026-02-28,Bulgaria,Europe,Announced,Build Own Operate,,0.0
+154089431582,Toki Storage Botevgrad BESS Plant Project,2026-02-28,Bulgaria,Europe,Announced,Build Own Operate,,0.0
+154089464485,Toki Storage Kardzhali BESS Plant Project,2026-02-28,Bulgaria,Europe,Announced,Build Own Operate,,0.0
+154089466060,Toki Storage Bulgaria BESS Plant Project,2026-02-28,Bulgaria,Europe,Announced,Build Own Operate,,0.0
+154089466162,Toki Storage Dragor BESS Plant Project,2026-02-28,Bulgaria,Europe,Announced,Build Own Operate,,0.0
+154089466264,Toki Storage Ganchovets BESS Plant Project,2026-02-28,Bulgaria,Europe,Announced,Build Own Operate,,0.0
+154089466630,Toki Storage Gorno Sahrane BESS Plant Project,2026-02-28,Bulgaria,Europe,Announced,Build Own Operate,,0.0
+154089466846,Toki Storage Razgrad BESS Plant Project,2026-02-28,Bulgaria,Europe,Announced,Build Own Operate,,0.0
+154089467154,Toki Storage Razlog BESS Plant Project,2026-02-28,Bulgaria,Europe,Announced,Build Own Operate,,0.0
+154089467166,Toki Storage Stara Zagora BESS Plant Project,2026-02-28,Bulgaria,Europe,Announced,Build Own Operate,,0.0
+154089476377,Yakoruda BESS Plant Project,2026-02-28,Bulgaria,Europe,Announced,Build Own Operate,,0.0
+154089630902,Amari Power Transmission Project,2026-02-03,Uganda,"Africa, Middle East, or Central Asia",Contract Awarded,Build Own Operate,Gridworks Development Partners LLP,178052499999.683
+154089637084,Ormat Nevada Geothermal Portfolio Project,2026-02-17,United States,Americas,Contract Signed,Build Own Operate,Ormat Technologies Inc,0.0
+154089754254,Haian Rubber Group Rubber Mixing Workshop Phase 2 Project,2026-02-09,China (Mainland),Asia Pacific Excluding Central Asia,Under Construction,Build Own Operate,Haian Rubber Group Co Ltd,333000000.0
+154089808223,Shanghai Lanbo Semiconductor Equipment Manufacturing Center Project,2026-02-10,China (Mainland),Asia Pacific Excluding Central Asia,Contract Signed,Build Own Operate,JHT Design Co Ltd,400000000.0
+154089811570,Atlas Edge Leverkusen Data Centre Project,2026-02-01,Germany,Europe,Under Construction,Build Own Operate,AE Corp UK Ltd,0.0
+154089820159,NTPC Devgad Nuclear Power Plant Project,2026-02-05,India,Asia Pacific Excluding Central Asia,Agreement Signed,Build Own Operate,NTPC Ltd,1000000000000.0
+154089951146,Metlen Italy Solar Power Project,2026-02-11,Italy,Europe,Contract Awarded,Build Own Operate,Metlen Energy & Metals PLC,370000000.0
+154089962791,HAKUSAN Kahoku Optical Connector Components Manufacturing Plant Project,2026-02-01,Japan,Japan,Agreement Signed,Build Own Operate,HAKUSAN Inc,5000000000.0
+154089974460,Project Islazul,2026-02-18,Spain,Europe,Sale Agreement Signed,Acquisition,Eurofund Capital Partners SL,340000000.0
+154089974460,,,,,,,Henderson Park Capital Partners UK LLP,
+154089978621,UPCL Battery Storage Project,2026-02-16,India,Asia Pacific Excluding Central Asia,Bids Submitted,Build Own Operate,Uttarakhand Power Corp Ltd,0.0
+154090013482,Gyeongju Wangsin Wind Power Project,2026-02-02,South Korea,Asia Pacific Excluding Central Asia,Announced,Build Own Operate,,35603222399.98
+154090029920,Daesan Wind Power Project,2026-02-02,South Korea,Asia Pacific Excluding Central Asia,Announced,Build Own Operate,Daesan Wind Power,53404833599.97
+154090033719,Midland Wind Farm Project,2026-02-08,Australia,Asia Pacific Excluding Central Asia,Announced,Build Own Operate,Tagenergy Australia Pty Ltd,769779044.904
+154090033827,Narrabri West Solar Project,2026-02-08,Australia,Asia Pacific Excluding Central Asia,Announced,Build Own Operate,Avenis Energy Pty Ltd,104347826.087
+154090035020,Triune Solar Project,2026-02-26,United States,Americas,Announced,Build Own Operate,Triune Solar LLC,61000000.0
+154090036534,Parana River Waterway Dredging PPP Project,2026-02-27,Argentina,Americas,Contract Signed,Public Private Partnership,Jan De Nul Nv,13960000000009.6
+154090036534,,,,,,,Servimagnus S.A,
+154090042276,Sosian Marasabit Wind Project,2026-02-17,Kenya,"Africa, Middle East, or Central Asia",Announced,Build Own Operate,Sosian Energy Ltd,8765200000.0
+154090042456,Savannakhet WAYO (TBD) Wind Project,2026-02-23,Laos,Asia Pacific Excluding Central Asia,Announced,Build Own Operate,,19566251999831.1
+154090042816,Kolon Global Taebaek Sangsami-dong Project,2026-02-02,South Korea,Asia Pacific Excluding Central Asia,Announced,Build Own Operate,Kolon Global Corp,47470963199.974
+154090042822,KOMIPO Seocheon Maryang-ri Project,2026-02-28,South Korea,Asia Pacific Excluding Central Asia,Announced,Build Own Operate,Korea Midland Power Co Ltd,4718417200.003
+154090045308,Coventina Galicia Hydro Storage Project,2026-02-13,Spain,Europe,Preferred Bidder Stage (PBS),Build Own Operate,Coventina Renovables,400000000.0
+154090045374,Bonney Downs Wind Project,2026-02-01,Australia,Asia Pacific Excluding Central Asia,Announced,Build Own Operate,Fortescue Ltd,3259088949.562
+154090050277,Roelands Wind Project,2026-02-08,Australia,Asia Pacific Excluding Central Asia,Announced,Build Own Operate,Yanara,315609408.411
+154090050508,Salavan Wind Project,2026-02-23,Laos,Asia Pacific Excluding Central Asia,Announced,Build Own Operate,,17402454719849.8
+154090059948,Lavezares Wind Project,2026-02-02,Philippines,Asia Pacific Excluding Central Asia,Announced,Build Own Operate,Envision Energy Philippines Corp,4002344000.0
+154090062559,Valencia 2 Wind Project,2026-02-24,Philippines,Asia Pacific Excluding Central Asia,Announced,Build Own Operate,Stark Wind Energy Corp,11770188000.0
+154090065947,Xepon SVARE (TBD) Project,2026-02-23,Laos,Asia Pacific Excluding Central Asia,Announced,Build Own Operate,,27622943999761.6
+154090090303,Marri (Storage) Project,2026-02-01,Australia,Asia Pacific Excluding Central Asia,Announced,Build Own Operate,Redbank Energy Ltd,0.0
+154090091089,Pohang Donghae Wind Power Project,2026-02-02,South Korea,Asia Pacific Excluding Central Asia,Announced,Build Own Operate,,117727988735.935
+154090091284,Quezon Atimonan Wind Project,2026-02-02,Philippines,Asia Pacific Excluding Central Asia,Announced,Build Own Operate,Triconti ECC Renewables Corp,5363140960.0
+154090092880,Fuerteventura Hibrido BESS Project,2026-02-02,Spain,Europe,Announced,Build Own Operate,Naturgy Energy Group SA,0.0
+154090093120,Puerto del Rosario Hibrido BESS Project,2026-02-02,Spain,Europe,Announced,Build Own Operate,Naturgy Energy Group SA,0.0
+154090094850,Peach Wood Solar Project,2026-02-26,United States,Americas,Awaiting Government Approval,Build Own Operate,OCI Energy LLC,159210000.0
+154090094885,Pease River Solar Project,2026-02-26,United States,Americas,Announced,Build Own Operate,Pease River Solar LLC,183000000.0
+154090095548,Plaine Ayeme Solar PV 2 Project,2026-02-26,Gabon,"Africa, Middle East, or Central Asia",Announced,Build Own Operate,,12009384000.001
+154090095611,San Nicolas Wind Project,2026-02-02,Philippines,Asia Pacific Excluding Central Asia,Announced,Build Own Operate,San Nicolas Wind Corp,12713328000.0
+154090096831,Panitan Solar Project,2026-02-06,Philippines,Asia Pacific Excluding Central Asia,Contract Signed,Build Own Operate,PetroEnergy Resources Corp,2954494310.4
+154090098510,Sorsogon Northern Wind Project,2026-02-02,Philippines,Asia Pacific Excluding Central Asia,Announced,Build Own Operate,Econergy International Pte Ltd,8004688000.0
+154090098530,Sorsogon 2 Wind Project,2026-02-02,Philippines,Asia Pacific Excluding Central Asia,Announced,Build Own Operate,Econergy International Pte Ltd,12713328000.0
+154090136565,Ashghal Doha Air Base Roads Project,2026-02-16,Qatar,"Africa, Middle East, or Central Asia",In Tender,Build Own Operate,Public Works Authority - Qatar,0.0
+154090140271,Yongrun Juhe Yongji Photovoltaic Power Station Project,2026-02-02,China (Mainland),Asia Pacific Excluding Central Asia,Contract Signed,Build Own Operate,Yongji Yongrun Juhe New Energy Co Ltd,400000000.0
+154090141729,Ajuy 1 P2 Solar Project,2026-02-11,Philippines,Asia Pacific Excluding Central Asia,Announced,Build Own Operate,Jin Navitas Resource Inc,1004621451.6
+154090141767,Anilao Solar Project,2026-02-24,Philippines,Asia Pacific Excluding Central Asia,Announced,Build Own Operate,Vivant Corp,5068104480.0
+154090142055,Golticlay 2 Onshore Wind Project,2026-02-20,United Kingdom,Europe,Contract Signed,Build Own Operate,RWE Renewables UK Ltd,15978638.184
+154090143505,Project Alantra,2026-02-23,Spain,Europe,Under Construction,Build Own Operate,Vauban Infrastructure Partners SCA,227459000.0
+154090144383,Botolan (Iligansolar) Solar Project,2026-02-06,Philippines,Asia Pacific Excluding Central Asia,Announced,Build Own Operate,Iligansolar Inc,1686355200.0
+154090144778,Currimao (Aboitiz) Solar Project,2026-02-06,Philippines,Asia Pacific Excluding Central Asia,Contract Signed,Build Own Operate,Aboitiz Power Corp,6786408600.0
+154090144803,Deep Space Solar - 60215 Project,2026-02-26,United States,Americas,Announced,Build Own Operate,,183000000.0
+154090144876,Earthlight San Fernando Barotac Viejo 2 Solar Project,2026-02-06,Philippines,Asia Pacific Excluding Central Asia,Announced,Build Own Operate,,2339817840.0
+154090144890,AMI Savannakhet Wind 2 Project,2026-02-23,Laos,Asia Pacific Excluding Central Asia,Announced,Build Own Operate,,22282508159807.7
+154090148618,ACME Suryodaya Jaisalmer BESS Project,2026-02-25,India,Asia Pacific Excluding Central Asia,Operational,Build Own Operate,Acme Suryodaya Pvt Ltd,0.0
+154090149465,Isabel Solar Urban Energy Project,2026-02-06,Philippines,Asia Pacific Excluding Central Asia,Contract Signed,Build Own Operate,Aviva Prime Corp,3231478152.0
+154090149609,Kalandagan Solar Project,2026-02-06,Philippines,Asia Pacific Excluding Central Asia,Contract Signed,Build Own Operate,Alternergy Holdings Corp,2276579520.0
+154090150417,Landshark Energy Generation Facility - 11767 Solar Project,2026-02-26,United States,Americas,Announced,Build Own Operate,,97600000.0
+154090152051,Luca 2 Solar Project,2026-02-10,Philippines,Asia Pacific Excluding Central Asia,Contract Signed,Build Own Operate,ib vogt GmbH,649632583.8
+154090152462,Indigo Solar Project,2026-02-08,Australia,Asia Pacific Excluding Central Asia,Announced,Build Own Operate,ANZA Power Pty Ltd,5856735.567
+154090162170,Cartuja Wind Plant Project,2026-02-28,Spain,Europe,Announced,Build Own Operate,,41445864.725
+154090162691,Corsovica Wind Farm Project,2026-02-28,Montenegro,Europe,Announced,Build Own Operate,,45590451.198
+154090162820,Solar PV project Melpignano (23) Project,2026-02-14,Italy,Europe,Announced,Build Own Operate,,13703716.188
+154090162927,Onshore wind project Monreale (40) Wind Plant Project,2026-02-19,Italy,Europe,Announced,Build Own Operate,,91498470.948
+154090163013,Mesokorfi Amazon Wind Farm Project,2026-02-28,Greece,Europe,Announced,Build Own Operate,,48906120.376
+154090165167,Caraga 2 Wind Project,2026-02-02,Philippines,Asia Pacific Excluding Central Asia,Announced,Build Own Operate,,4002344000.0
+154090165175,Caraga 1 Wind Project,2026-02-02,Philippines,Asia Pacific Excluding Central Asia,Announced,Build Own Operate,,8084734880.0
+154090165183,Samhwa Energy Uljin Sotae-ri Wind Plant Project,2026-02-02,South Korea,Asia Pacific Excluding Central Asia,Announced,Build Own Operate,,86397153023.952
+154090165202,Dinner Hill Wind Plant Project,2026-02-01,Australia,Asia Pacific Excluding Central Asia,Announced,Build Own Operate,,1862336542.607
+154090165479,MandrosezaSolar PV Phase 2 Project,2026-02-02,Madagascar,"Africa, Middle East, or Central Asia",Announced,Build Own Operate,,38306165228.976
+154090165480,Longi Solar-Sino Green Solar PV Phase 3 Project,2026-02-02,Zambia,"Africa, Middle East, or Central Asia",Announced,Build Own Operate,,1197454400.0
+154090165513,Longi Solar-Sino Green Solar PV Phase 10 Project,2026-02-02,Zambia,"Africa, Middle East, or Central Asia",Announced,Build Own Operate,,1197454400.0
+154090165527,Liberty B Floating PV Solar Plant Project,2026-02-02,Philippines,Asia Pacific Excluding Central Asia,Announced,Build Own Operate,,1400820400.0
+154090165531,Kiyona Lusaka Solar PV Project,2026-02-02,Zambia,"Africa, Middle East, or Central Asia",Announced,Build Own Operate,,367481088.0
+154090165552,CEEG-HEPDI Choma Solar PV Project,2026-02-02,Zambia,"Africa, Middle East, or Central Asia",Announced,Build Own Operate,,494686080.0
+154090165575,Liberty A Floating PV Solar Plant Project,2026-02-02,Philippines,Asia Pacific Excluding Central Asia,Announced,Build Own Operate,,1400820400.0
+154090165581,Kean wind Wind Plant Project,2026-02-08,Australia,Asia Pacific Excluding Central Asia,Announced,Build Own Operate,,315609408.411
+154090165597,Kahm Muan Wind (TBD) Project,2026-02-23,Laos,Asia Pacific Excluding Central Asia,Announced,Build Own Operate,,13811471999880.8
+154090165602,Three Springs Giga Energy (wind) Wind Plant Project,2026-02-08,Australia,Asia Pacific Excluding Central Asia,Announced,Build Own Operate,,461867426.942
+154090165605,National Cement Company Wind Project,2026-02-17,Kenya,"Africa, Middle East, or Central Asia",Announced,Build Own Operate,,8765200000.0
+154090165629,Prunus Wind Farm Project,2026-02-17,Kenya,"Africa, Middle East, or Central Asia",Announced,Build Own Operate,,8765200000.0
+154090165663,Three Springs Giga Energy (solar) Solar Plant Project,2026-02-08,Australia,Asia Pacific Excluding Central Asia,Announced,Build Own Operate,,130434782.609
+154090165716,Three Springs Solar Farm Project,2026-02-08,Australia,Asia Pacific Excluding Central Asia,Announced,Build Own Operate,,326956521.739
+154090165726,Coomandook Solar Plant Project,2026-02-08,Australia,Asia Pacific Excluding Central Asia,Announced,Build Own Operate,,5856735.567
+154090165748,Ilosong 1 Wind Project,2026-02-02,Philippines,Asia Pacific Excluding Central Asia,Announced,Build Own Operate,,12713328000.0
+154090165782,Longi Solar-Sino Green Solar PV Phase 7 Project,2026-02-02,Zambia,"Africa, Middle East, or Central Asia",Announced,Build Own Operate,,1197454400.0
+154090165810,Longi Solar-Sino Green Solar PV Phase 4 Project,2026-02-02,Zambia,"Africa, Middle East, or Central Asia",Announced,Build Own Operate,,1197454400.0
+154090165832,Longi Solar-Sino Green Solar PV Phase 9 Project,2026-02-02,Zambia,"Africa, Middle East, or Central Asia",Announced,Build Own Operate,,1197454400.0
+154090165839,University of Lagos Floating PV Solar Plant Project,2026-02-02,Nigeria,"Africa, Middle East, or Central Asia",Announced,Build Own Operate,,8085370299.998
+154090165845,Longi Solar-Sino Green Solar PV Phase 2 Project,2026-02-02,Zambia,"Africa, Middle East, or Central Asia",Announced,Build Own Operate,,1197454400.0
+154090165859,Longi Solar-Sino Green Solar PV Phase 6 Project,2026-02-02,Zambia,"Africa, Middle East, or Central Asia",Announced,Build Own Operate,,1197454400.0
+154090165883,Al Nahda Solar PV Project,2026-02-02,Egypt,"Africa, Middle East, or Central Asia",Announced,Build Own Operate,,914457600.0
+154090165905,Longi Solar-Sino Green Solar PV Phase 8 Project,2026-02-02,Zambia,"Africa, Middle East, or Central Asia",Announced,Build Own Operate,,1197454400.0
+154090165910,Longi Solar-Sino Green Solar PV Phase 5 Project,2026-02-02,Zambia,"Africa, Middle East, or Central Asia",Announced,Build Own Operate,,1197454400.0
+154090165932,MandrosezaSolar PV Phase 3 Project,2026-02-02,Madagascar,"Africa, Middle East, or Central Asia",Announced,Build Own Operate,,38306165228.976
+154090166024,Windpark West R WPP Project,2026-02-28,Ukraine,Europe,Announced,Build Own Operate,,9309600000.0
+154090166103,Bacnotan (La Union) Solar Project,2026-02-15,Philippines,Asia Pacific Excluding Central Asia,Announced,Build Own Operate,,499922280.0
+154090166122,Vismaya Solar (CESC 600 MW Hybrid) Project,2026-02-01,India,Asia Pacific Excluding Central Asia,Announced,Build Own Operate,,3300156000.0
+154090166339,Poltavska WPP Wind Plant Project,2026-02-28,Ukraine,Europe,Announced,Build Own Operate,,30256200000.0
+154090166430,Mooroopna (ANZA) Solar Plant Project,2026-02-08,Australia,Asia Pacific Excluding Central Asia,Announced,Build Own Operate,,5856735.567
+154090166431,Coneybeer Solar Plant Project,2026-02-08,Australia,Asia Pacific Excluding Central Asia,Announced,Build Own Operate,,5856735.567
+154090166471,Kean solar Solar Plant Project,2026-02-08,Australia,Asia Pacific Excluding Central Asia,Announced,Build Own Operate,,230434782.609
+154090174315,GreenYellow Spain Solar & Battery Storage Portfolio Project,2026-02-25,Spain,Europe,Announced,Build Own Operate,GreenYellow SAS,32000000.0
+154090177103,Toravi Wind Solar Hybrid Project,2026-02-04,India,Asia Pacific Excluding Central Asia,Announced,Build Own Operate,Bhuj Wind Energy Pvt Ltd,0.0
+154090180810,Liltha Solar South Africa Solar PV Project,2026-02-18,South Africa,"Africa, Middle East, or Central Asia",Agreement Signed,Build Own Operate,Lilitha Solar PV (RF) Pty Ltd,1816090000.0
+154090204708,Stokkfjellet BESS Project,2026-02-03,Norway,Europe,Announced,Build Own Operate,,0.0
+154090232898,Servotronix High End Drive Systems Headquarter & R&D Manufacturing Base Project,2026-02-27,China (Mainland),Asia Pacific Excluding Central Asia,Under Construction,Build Own Operate,Guangdong Midea Intelligent Technology Co Ltd,1500000000.0
+154090234080,Alpha Demonstration Stellarator Project,2026-02-25,Germany,Europe,Agreement Signed,Build Own Operate,RWE AG,2000000000.0
+154090234080,,,,,,,Bayerische Staatskanzlei,
+154090234080,,,,,,,Proxima Fusion GmbH,
+154090234080,,,,,,,Max Planck Institute For Plasma Physics,
+154090262188,Bapu Shangcheng Wind Farm Phase II Project,2026-02-13,China (Mainland),Asia Pacific Excluding Central Asia,Announced,Build Own Operate,Guangxi Energy Group Co Ltd,469744000.0
+154090266941,Bramley Frith Battery Storage Project,2026-02-28,United Kingdom,Europe,Announced,Build Own Operate,Macquarie Group Ltd,0.0
+154090268249,UFV Luzeiro 8 Solar Project,2026-02-11,Brazil,Americas,Government Approved,Build Own Operate,Vila Energia Renovavel Ltda,85087411.2
+154090268378,UFV Luzeiro 7 Solar Project,2026-02-11,Brazil,Americas,Government Approved,Build Own Operate,Vila Energia Renovavel Ltda,85008626.56
+154090268713,UFV Luzeiro 20 Solar Project,2026-02-11,Brazil,Americas,Government Approved,Build Own Operate,Vila Energia Renovavel Ltda,90759905.28
+154090268793,UFV Luzeiro 21 Solar Project,2026-02-11,Brazil,Americas,Government Approved,Build Own Operate,Vila Energia Renovavel Ltda,102104893.44
+154090268996,UFV Luzeiro 22 Solar Project,2026-02-11,Brazil,Americas,Government Approved,Build Own Operate,Vila Energia Renovavel Ltda,96432399.36
+154090269057,UFV Luzeiro 23 Solar Project,2026-02-11,Brazil,Americas,Government Approved,Build Own Operate,Vila Energia Renovavel Ltda,113449881.6
+154090269077,UFV Luzeiro 24 Solar Project,2026-02-11,Brazil,Americas,Government Approved,Build Own Operate,Vila Energia Renovavel Ltda,90759905.28
+154090293145,Pinggui Matoushan Wind Farm Phase II Project,2026-02-13,China (Mainland),Asia Pacific Excluding Central Asia,Announced,Build Own Operate,Huadian New Energy Group Corp Ltd,469744000.0
+154090293336,Pinggui Wanggao Wind Farm Project,2026-02-13,China (Mainland),Asia Pacific Excluding Central Asia,Announced,Build Own Operate,Huadian New Energy Group Corp Ltd,469744000.0
+154090293462,Babu Baotang Wind Farm Project,2026-02-13,China (Mainland),Asia Pacific Excluding Central Asia,Announced,Build Own Operate,China Power International Development Ltd,0.0
+154090293558,Pinggui Xiwan Wind Farm Project,2026-02-13,China (Mainland),Asia Pacific Excluding Central Asia,Announced,Build Own Operate,Huadian New Energy Group Corp Ltd,484775808.0
+154090293775,Fatira Drinking Water Station Expansion Project,2026-02-23,Egypt,"Africa, Middle East, or Central Asia",Under Construction,Build Own Operate,Arab Republic Of Egypt,884000000.0
+154090315607,Socrates the Younger Power Generation Project,2026-02-10,United States,Americas,Sale Agreement Signed,Build Own Operate,Williams Cos Inc,1300000000.0
+154090316834,Cherkovitsa WPP Wind Project,2026-02-28,Bulgaria,Europe,Announced,Build Own Operate,DMT Prime Ltd,108678144.0
+154090361193,DRA02 Project,2026-02-16,Norway,Europe,Study & Design,Build Own Operate,PolarDC Group Ltd,0.0
+154090361822,Libra Solar LBRBS BESS Project,2026-02-28,United States,Americas,Announced,Build Own Operate,Libra Solar LLC,0.0
+154090447411,Red Gully BESS (Phase 1) Project,2026-02-02,Australia,Asia Pacific Excluding Central Asia,Announced,Build Own Operate,BLT Energy Pty Ltd,0.0
+154090447567,Red Gully BESS (Phase 2) Project,2026-02-02,Australia,Asia Pacific Excluding Central Asia,Announced,Build Own Operate,BLT Energy Pty Ltd,0.0
+154090521324,Masdar Batn Al Ghul Wind Power Project,2026-02-10,Jordan,"Africa, Middle East, or Central Asia",Contract Signed,Build Own Operate,Abu Dhabi Future Energy Co PJSC,0.0
+154090539145,Arrow Energy Surat Gas Central Development Project,2026-02-18,Australia,Asia Pacific Excluding Central Asia,Announced,Build Own Operate,Arrow Energy Holdings Pty Ltd,710126402.5
+154090673380,Legacy - Vanadium Zinc Battery Storage Project,2026-02-07,United Kingdom,Europe,Announced,Build Own Operate,Frontier Power Ltd,0.0
+154090797504,Volyn West WPP Wind Plant Project,2026-02-28,Ukraine,Europe,Announced,Build Own Operate,,11078424000.0
+154090797556,PE Montes de Cierzo II_Repowering Wind Plant Project,2026-02-28,Spain,Europe,Announced,Build Own Operate,,33156691.78
+154090851957,Gold Hart Nessa Mining Portfolio Project,2026-02-02,Chile,Americas,Announced,Build Own Operate,Gold Hart Copper Corp,0.0
+154090899471,Freedom Lithium Carbonate Project,2026-02-09,United States,Americas,Contract Signed,Build Own Operate,LibertyStream Infrastructure Partners Inc,95000000.0
+154090935940,SM Energy Galvan Ranch Assets Acquisition Project,2026-02-01,United States,Americas,Sale Completed,Acquisition,SM Energy Co,950000000.0
+154090935940,,,,,,,Caturus Holdco LLC,
+154090943137,UPJN Lohta Sewage Treatment Plant Project,2026-02-21,India,Asia Pacific Excluding Central Asia,Contract Signed,Build Own Operate,Uttar Pradesh Jal Nigam,2740000000.0
+154090990185,Project Thor,2026-02-20,Spain,Europe,Agreement Signed,Build Own Operate,Antin Infrastructure Partners SAS,559949000.0
+154091001259,Little Rock Wind Project,2026-02-18,United States,Americas,Announced,Build Own Operate,,0.0
+154091106299,Carrier Global Sri City Manufacturing Project,2026-02-17,India,Asia Pacific Excluding Central Asia,Under Construction,Build Own Operate,Carrier Global Corp,9062700000.0
+154091162088,IHS Holding South Africa Telecommunications Infrastructure Acquisition Project,2026-02-17,South Africa,"Africa, Middle East, or Central Asia",Sale Completed,Acquisition,MTN Group Ltd,16187900000.0
+154091162088,,,,,,,IHS Holding Ltd,
+154091166665,Calisen Germany Smart Meters Project,2026-02-04,Germany,Europe,Announced,Build Own Operate,Calisen Ltd,85000000.0
+154091166665,,,,,,,Energy Metering Germany Gmbh,
+154091170924,Argentina Bajo del ChoiqueLa Invernada Development Project,2026-02-19,Argentina,Americas,Announced,Build Own Operate,Pluspetrol Resources Corp BV,17235999999991.7
+154091175521,PT AGP Indonesia Utama Acquisition Project,2026-02-26,Indonesia,Asia Pacific Excluding Central Asia,Sale Completed,Acquisition,TOKYO GAS Co Ltd,0.0
+154091202423,NRG Indian River Natural Gas Restart Project,2026-02-23,United States,Americas,Planning Permission Applied,Build Own Operate,NRG Indian River Energy Center LLC,0.0
+154091235626,Patanjali Dhakrani Battery Storage Project,2026-02-02,India,Asia Pacific Excluding Central Asia,Government Approved,Build Own Operate,Patanjali Renewable Energy Pvt Ltd,0.0

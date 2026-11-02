@@ -1,0 +1,11 @@
+# LSEG data (licensed, not for publication)
+data/raw/
+data/clean/
+*.csv
+*.parquet
+
+# Python / Jupyter / Mac clutter
+.ipynb_checkpoints/
+__pycache__/
+.DS_Store
+.env
